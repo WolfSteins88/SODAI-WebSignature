@@ -7,11 +7,21 @@ const segment = z
   .min(1)
   .max(100)
   .regex(/^[a-zA-Z0-9_-]+$/);
-export function deploymentScope(env: NodeJS.ProcessEnv = process.env) {
+// Netlify sets CONTEXT and DEPLOY_ID for the build only; next.config.ts inlines
+// them so hosted functions resolve the same scope the operator seeded.
+function hostedEnv(env: NodeJS.ProcessEnv = process.env): NodeJS.ProcessEnv {
+  return {
+    ...env,
+    CONTEXT: process.env.SODAI_BUILD_CONTEXT || env.CONTEXT,
+    DEPLOY_ID: process.env.SODAI_BUILD_DEPLOY_ID || env.DEPLOY_ID,
+  };
+}
+export function deploymentScope(env: NodeJS.ProcessEnv = hostedEnv()) {
   localDemoConfig(env);
   const context = env.CONTEXT || "local";
   const villa = segment.parse(
-    env.SITE_ID || (context === "local" ? "sodai-local" : undefined),
+    // Netlify's own SITE_ID is a UUID; VILLA_ID names the seeded villa.
+    env.VILLA_ID || env.SITE_ID || (context === "local" ? "sodai-local" : undefined),
   );
   const environment = segment.parse(
     env.CONTENT_ENV || (context === "local" ? "local" : undefined),
@@ -30,9 +40,11 @@ export function deploymentScope(env: NodeJS.ProcessEnv = process.env) {
     deploy,
     key,
     namespace: `villa-${key}`,
+    // Netlify Blobs store names are capped at 64 bytes.
+    storeName: `villa-${key.slice(0, 48)}`,
   };
 }
-export function accountSettings(env: NodeJS.ProcessEnv = process.env) {
+export function accountSettings(env: NodeJS.ProcessEnv = hostedEnv()) {
   const identifier = z
     .string()
     .trim()
