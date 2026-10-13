@@ -7,6 +7,13 @@ const segment = z
   .min(1)
   .max(100)
   .regex(/^[a-zA-Z0-9_-]+$/);
+// Name the variable so a hosted build log says what to set.
+function setting(name: string, value: string | undefined) {
+  const parsed = segment.safeParse(value);
+  if (!parsed.success)
+    throw new Error(`${name} must be set to letters, digits, "-" or "_" (got ${value === undefined ? "nothing" : JSON.stringify(value)}).`);
+  return parsed.data;
+}
 // Netlify sets CONTEXT and DEPLOY_ID for the build only; next.config.ts inlines
 // them so hosted functions resolve the same scope the operator seeded.
 function hostedEnv(env: NodeJS.ProcessEnv = process.env): NodeJS.ProcessEnv {
@@ -19,17 +26,19 @@ function hostedEnv(env: NodeJS.ProcessEnv = process.env): NodeJS.ProcessEnv {
 export function deploymentScope(env: NodeJS.ProcessEnv = hostedEnv()) {
   localDemoConfig(env);
   const context = env.CONTEXT || "local";
-  const villa = segment.parse(
+  const villa = setting(
+    "VILLA_ID",
     // Netlify's own SITE_ID is a UUID; VILLA_ID names the seeded villa.
     env.VILLA_ID || env.SITE_ID || (context === "local" ? "sodai-local" : undefined),
   );
-  const environment = segment.parse(
+  const environment = setting(
+    "CONTENT_ENV",
     env.CONTENT_ENV || (context === "local" ? "local" : undefined),
   );
   const deploy =
     context === "production" || context === "local"
       ? ""
-      : segment.parse(env.DEPLOY_ID);
+      : setting("DEPLOY_ID", env.DEPLOY_ID);
   const key = createHash("sha256")
     .update(JSON.stringify([villa, environment, context, deploy]))
     .digest("hex");
