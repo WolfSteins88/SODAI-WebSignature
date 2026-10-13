@@ -33,8 +33,10 @@ Without configuration, login shows a setup notice and operations fail closed. Co
 | `AUTH_SESSION_VERSION`                                | Required version string; change and redeploy to revoke all JWTs             |
 | `OWNER_IDENTIFIER`, `OWNER_PASSWORD_HASH`             | Fixed Owner account; identifier and bcrypt hash                             |
 | `SUPER_ADMIN_IDENTIFIER`, `SUPER_ADMIN_PASSWORD_HASH` | Fixed Super Admin account; distinct identifier and bcrypt hash              |
-| `DATABASE_URL`                                        | Optional local/operator Netlify-managed database connection                 |
+| `DATABASE_URL`                                        | Netlify-managed connection (optional) or Neon pooled URL (required on Vercel) |
+| `DATABASE_URL_UNPOOLED`, `BLOB_READ_WRITE_TOKEN`      | Neon direct URL for migrations; private Vercel Blob store token             |
 | `CONTEXT`, `DEPLOY_ID`, `NETLIFY`                     | Netlify runtime values; reproduce the exact target scope when seeding       |
+| `VERCEL`, `VERCEL_ENV`, `VERCEL_DEPLOYMENT_ID`        | Vercel runtime values; mapped onto the same scopes as `CONTEXT`/`DEPLOY_ID` |
 
 Account identifiers, password hashes and auth secret belong in server-only Netlify Environment Variables scoped to the intended deployment context and Functions runtime. Non-secret template/scope variables must also be available during builds. Never use `NEXT_PUBLIC_`, `next.config` env injection or committed secrets. Auth initialization is lazy. There is no auth adapter, account/session table, registration, invitation, third role or user-management UI.
 
@@ -72,6 +74,33 @@ Server-only Blobs helpers authorize every read/write/delete, accept no caller na
 
 The CLI currently reports **Not logged in**. No authenticated linked project, Database connection or Blobs runtime context is available, so live integrations remain unverified.
 
+## Vercel + Neon deployment
+
+The same code also runs on Vercel with Neon Postgres and a private Vercel Blob store; Netlify support is unchanged.
+
+| Netlify                              | Vercel + Neon                                                          |
+| ------------------------------------ | ---------------------------------------------------------------------- |
+| Netlify Database                     | Neon `DATABASE_URL` (pooled; `DATABASE_URL_UNPOOLED` for migrations)   |
+| Netlify Blobs                        | Private Vercel Blob (`BLOB_READ_WRITE_TOKEN`), `villa-<scope>/` paths  |
+| `CONTEXT` / `DEPLOY_ID`              | `VERCEL_ENV` (`production`, `preview`→`deploy-preview`, `development`→`local`) / `VERCEL_DEPLOYMENT_ID` |
+| `x-nf-client-connection-ip`          | `x-real-ip` (trusted only when `VERCEL=1` outside `development`)       |
+
+1. **Neon** – create a project (e.g. region `aws-ap-southeast-1` for Bali), or add it from the Vercel Marketplace (Storage → Neon) so `DATABASE_URL` and `DATABASE_URL_UNPOOLED` are injected per environment. Enable preview branching only if previews should get their own database branch.
+2. **Vercel project** – import this repository (one project per template: Standard and Signature). Framework *Next.js*, build `npm run build`, Node 22. Do not static-export.
+3. **Blob** – Storage → Create → Blob, connect it to the project for Production and Preview; this adds `BLOB_READ_WRITE_TOKEN`. Images are stored with `access: "private"` and served only through `/api/media/[id]`.
+4. **Environment variables** (Production, and Preview with its own values): `SITE_ID`, `CONTENT_ENV` (`production` / `preview`), `TEMPLATE_VARIANT`, `CONTENT_MODE=live`, `AUTH_URL` (the exact HTTPS origin), `AUTH_SECRET`, `AUTH_SESSION_VERSION`, `OWNER_*` and `SUPER_ADMIN_*` (identifier, raw bcrypt hash without `\` escapes, TOTP secret). Mark secrets *Sensitive*.
+5. **Migrate and seed** from a workstation, once per target scope:
+
+```sh
+vercel link && vercel env pull .env.local   # or paste the Neon URLs manually
+npm run db:migrate
+VERCEL_ENV=production SITE_ID=<prod site id> CONTENT_ENV=production npm run db:seed
+```
+
+Preview deployments get a per-deployment scope (`VERCEL_DEPLOYMENT_ID`) and therefore start empty; seed a preview deliberately with `VERCEL_ENV=preview VERCEL_DEPLOYMENT_ID=dpl_… CONTENT_ENV=preview`. Never seed a preview against the production branch.
+
+6. Deploy, then sign in at `/admin/login` and run the hosted checks in `docs/verification.md`.
+
 ## Compatibility and verification
 
 All direct versions are exact; the lockfile pins transitive dependencies.
@@ -80,7 +109,7 @@ All direct versions are exact; the lockfile pins transitive dependencies.
 | ---------------- | ---------------------------------------------------------------------------------------------- |
 | UI/runtime       | Next 16.3.8, React/DOM 19.3.0, TypeScript 5.9.3, Tailwind/PostCSS 4.3.3, GSAP 3.15.0           |
 | Auth             | next-auth **5.0.0-beta.32**, bcryptjs 3.0.3                                                    |
-| Persistence      | @netlify/database 2.0.1, @netlify/blobs 11.1.3, Drizzle 0.45.3, drizzle-kit 0.31.11, pg 8.23.1 |
+| Persistence      | @netlify/database 2.0.1, @netlify/blobs 11.1.3, @vercel/blob 2.8.0, Drizzle 0.45.3, drizzle-kit 0.31.11, pg 8.23.1 |
 | Validation/media | Zod 4.6.5, sharp 0.35.5                                                                        |
 | Local tests      | PGlite 0.5.8, PGlite Socket 0.2.11, tsx 4.23.15                                                |
 

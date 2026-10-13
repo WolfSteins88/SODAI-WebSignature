@@ -7,9 +7,16 @@ const segment = z
   .min(1)
   .max(100)
   .regex(/^[a-zA-Z0-9_-]+$/);
+// Vercel's environments mapped onto Netlify's deploy contexts so scopes match.
+const vercelContexts: Record<string, string> = {
+  production: "production",
+  preview: "deploy-preview",
+  development: "local",
+};
 export function deploymentScope(env: NodeJS.ProcessEnv = process.env) {
   localDemoConfig(env);
-  const context = env.CONTEXT || "local";
+  const context =
+    env.CONTEXT || (env.VERCEL_ENV && vercelContexts[env.VERCEL_ENV]) || "local";
   const villa = segment.parse(
     env.SITE_ID || (context === "local" ? "sodai-local" : undefined),
   );
@@ -19,7 +26,7 @@ export function deploymentScope(env: NodeJS.ProcessEnv = process.env) {
   const deploy =
     context === "production" || context === "local"
       ? ""
-      : segment.parse(env.DEPLOY_ID);
+      : segment.parse(env.DEPLOY_ID || env.VERCEL_DEPLOYMENT_ID);
   const key = createHash("sha256")
     .update(JSON.stringify([villa, environment, context, deploy]))
     .digest("hex");

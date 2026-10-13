@@ -18,7 +18,9 @@ if (!["migrate", "seed", "seed-reference"].includes(command))
 if (command === "seed-reference" && process.env.TEMPLATE_VARIANT !== "signature")
   throw new Error("Reference Story seed requires TEMPLATE_VARIANT=signature");
 const pool = new Pool({
-  connectionString: process.env.DATABASE_URL || getConnectionString(),
+  // Neon: migrations prefer the direct (unpooled) endpoint when provided.
+  connectionString:
+    process.env.DATABASE_URL_UNPOOLED || process.env.DATABASE_URL || getConnectionString(),
   max: 1,
 });
 const database = drizzle(pool, { schema });

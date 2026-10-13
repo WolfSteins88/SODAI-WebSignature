@@ -5,7 +5,8 @@ import path from 'node:path';
 export function rejectHostedDemo(env: NodeJS.ProcessEnv = process.env) {
   if ((env.NETLIFY && env.NETLIFY !== 'false') || (env.CONTEXT && env.CONTEXT !== 'local') ||
       env.DEPLOY_ID || env.DEPLOY_URL || env.NETLIFY_BLOBS_CONTEXT || env.NETLIFY_DATABASE_URL ||
-      env.AWS_LAMBDA_FUNCTION_NAME || env.FUNCTIONS_WORKER_RUNTIME || env.VERCEL) {
+      env.AWS_LAMBDA_FUNCTION_NAME || env.FUNCTIONS_WORKER_RUNTIME || env.VERCEL || env.VERCEL_ENV ||
+      env.BLOB_READ_WRITE_TOKEN) {
     throw new Error('Local demo is forbidden in a deployed environment.');
   }
 }

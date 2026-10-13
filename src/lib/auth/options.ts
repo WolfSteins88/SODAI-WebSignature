@@ -28,8 +28,11 @@ export function authOptions(
   verify:(token:string,code:string,request:Request)=>Promise<ReturnType<typeof accountSettings>['accounts'][number]|null>=async()=>null,
 ): NextAuthConfig {
   const secure = new URL(origin).protocol === "https:";
-  if (process.env.NETLIFY === "true" && !secure)
-    throw new Error("Netlify authentication requires HTTPS");
+  const hosted =
+    process.env.NETLIFY === "true" ||
+    (process.env.VERCEL === "1" && process.env.VERCEL_ENV !== "development");
+  if (hosted && !secure)
+    throw new Error("Hosted authentication requires HTTPS");
   return {
     secret: settings.secret,
     trustHost: true,

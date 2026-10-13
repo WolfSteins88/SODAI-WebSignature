@@ -5,10 +5,13 @@ import { sql, lt } from "drizzle-orm";
 import type { NodePgDatabase } from "drizzle-orm/node-postgres";
 import * as schema from "../db/schema";
 export function loginClient(request: Request) {
+  // Only platform-owned headers are trusted; Vercel overwrites x-real-ip.
   const ip =
     process.env.NETLIFY === "true"
       ? request.headers.get("x-nf-client-connection-ip")
-      : null;
+      : process.env.VERCEL === "1" && process.env.VERCEL_ENV !== "development"
+        ? request.headers.get("x-real-ip")
+        : null;
   return ip && isIP(ip) ? ip : "shared";
 }
 export async function consumeLoginAttempt(
