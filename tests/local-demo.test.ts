@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {mkdtemp} from 'node:fs/promises';
+import {mkdir,mkdtemp} from 'node:fs/promises';
 import path from 'node:path';
 import {localDemoConfig} from '../src/lib/security/local-demo';
 import {filesystemMediaStore} from '../src/lib/storage/local';
@@ -13,7 +13,7 @@ test('local demo configuration fails closed in hosted contexts and requires isol
  assert.equal(localDemoConfig({NODE_ENV:'production'}),null);
 });
 test('filesystem images are immutable, namespaced and persistent across store instances',async()=>{
- const root=await mkdtemp(path.resolve('test-results','local-media-'));const ns='villa-'+'a'.repeat(64),key=crypto.randomUUID()+'.webp',bytes=Uint8Array.from([1,2,3]).buffer;
+ await mkdir(path.resolve('test-results'),{recursive:true});const root=await mkdtemp(path.resolve('test-results','local-media-'));const ns='villa-'+'a'.repeat(64),key=crypto.randomUUID()+'.webp',bytes=Uint8Array.from([1,2,3]).buffer;
  const first=filesystemMediaStore(root,ns);await first.set(key,bytes);await assert.rejects(first.set(key,bytes));
  assert.deepEqual(await filesystemMediaStore(root,ns).get(key),bytes);
  assert.equal(await filesystemMediaStore(root,'villa-'+'b'.repeat(64)).get(key),null);
