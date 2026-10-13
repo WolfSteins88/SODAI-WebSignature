@@ -9,7 +9,7 @@ import {siteUrl} from '@/lib/config';
 export const runtime='nodejs';export const dynamic='force-dynamic';
 export async function POST(request:Request){try{
  requireOrigin(request);
- if(accountSettings().localDemo)throw new HttpError(409,"Use local demo password sign-in.");
+ if(accountSettings().localDemo||accountSettings().passwordOnly)throw new HttpError(409,"Use password sign-in.");
  const b=z.object({identifier:z.string().min(1).max(120),password:z.string().min(1).max(72)}).strict().parse(await boundedJSON(request,2048));
  const token=await loginChallengeRepository(db(),accountSettings()).begin(b.identifier,b.password,request);
  if(!token)throw new HttpError(401,'Sign-in failed. Check your credentials or try again later.');

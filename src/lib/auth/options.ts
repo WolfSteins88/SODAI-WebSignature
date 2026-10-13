@@ -52,6 +52,15 @@ export function authOptions(
             if (!password || Buffer.byteLength(password) > 72 || !await compare(password, account.hash) || credentials.identifier !== account.id) return null;
             return {id:account.id,name:'Local Demo Admin',role:account.role,scope:settings.scope.key,version:settings.version};
           }
+          if (settings.passwordOnly) {
+            const identifier = typeof credentials.identifier === 'string' ? credentials.identifier.trim().toLowerCase() : '';
+            const account = settings.accounts.find(a => a.id === identifier);
+            if (!(await limit(account?.id || 'unknown', request))) return null;
+            const password = typeof credentials.password === 'string' ? credentials.password : '';
+            // Compare against a real hash even for unknown accounts so timing does not reveal them.
+            if (!password || Buffer.byteLength(password) > 72 || !await compare(password, account?.hash || settings.accounts[0].hash) || !account) return null;
+            return {id:account.id,name:account.role === "owner" ? "Owner" : "Super Admin",role:account.role,scope:settings.scope.key,version:settings.version};
+          }
           if (!(await limit("totp",request))) return null;
           const cookie=request.headers.get('cookie')?.split(';').map(v=>v.trim()).find(v=>v.startsWith('sodai-login-challenge='))?.split('=')[1]||'';
           const account=await verify(cookie,typeof credentials.code==='string'?credentials.code:'',request);

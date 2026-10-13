@@ -117,6 +117,12 @@ test("M1: real Auth.js flows and persistent scoped PostgreSQL content", async (t
         });
         assert.notEqual(preview.key, settings.scope.key);
         assert.notEqual(second.namespace, settings.scope.namespace);
+        assert.ok(Buffer.byteLength(preview.storeName) <= 64);
+        assert.notEqual(second.storeName, settings.scope.storeName);
+        assert.equal(
+          deploymentScope({ ...process.env, VILLA_ID: "second-villa", SITE_ID: "netlify-uuid" }).key,
+          second.key,
+        );
         assert.notEqual(
           preview.namespace,
           deploymentScope({

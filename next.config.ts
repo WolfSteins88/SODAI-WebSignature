@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 const config: NextConfig = {
   distDir: process.env.NEXT_DIST_DIR || ".next",
+  // Netlify exposes these only at build time; see deploymentScope.
+  env: {
+    SODAI_BUILD_CONTEXT: process.env.CONTEXT || "",
+    SODAI_BUILD_DEPLOY_ID: process.env.DEPLOY_ID || "",
+  },
   images: {
     remotePatterns: [{ protocol: "https", hostname: "images.unsplash.com" }],
   },

@@ -10,8 +10,8 @@ import { deploymentScope } from "../src/lib/security/settings";
 async function main() {
 loadEnvConfig(process.cwd());
 const scope = deploymentScope();
-if (!process.env.SITE_ID || !process.env.CONTENT_ENV)
-  throw new Error("SITE_ID and CONTENT_ENV are required");
+if (!(process.env.VILLA_ID || process.env.SITE_ID) || !process.env.CONTENT_ENV)
+  throw new Error("VILLA_ID (or SITE_ID) and CONTENT_ENV are required");
 const command = process.argv[2];
 if (!["migrate", "seed", "seed-reference"].includes(command))
   throw new Error("Use migrate, seed, or seed-reference");

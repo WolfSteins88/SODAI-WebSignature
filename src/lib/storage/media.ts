@@ -14,7 +14,7 @@ export function mediaNamespace() {
 export function mediaStore() {
   const local=localDemoConfig();
   if(local)return filesystemMediaStore(local.root,scope.namespace);
-  return getStore({ name: scope.namespace, consistency: "strong" });
+  return getStore({ name: scope.storeName, consistency: "strong" });
 }
 const imageKey = (key: string) => {
   if (!/^[0-9a-f-]{36}\.webp$/.test(key))
