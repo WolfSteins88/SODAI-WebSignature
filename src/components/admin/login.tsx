@@ -7,7 +7,7 @@ import {LoginSlide,type LoginPhase} from "./login-slide";
 import {createSubmissionGate} from "./login-interactions";
 import "./login.css";
 
-export function Login({configured,localDemo=false,passwordOnly=false,name="Villa management"}:{configured:boolean;localDemo?:boolean;passwordOnly?:boolean;name?:string}){
+export function Login({configured,localDemo=false,passwordOnly=false,problem="",name="Villa management"}:{configured:boolean;localDemo?:boolean;passwordOnly?:boolean;problem?:string;name?:string}){
  const [step,setStep]=useState<"password"|"otp">("password"),[phase,setPhase]=useState<LoginPhase>("idle"),[error,setError]=useState(""),[code,setCode]=useState("");
  const form=useRef<HTMLFormElement>(null),gate=useRef(createSubmissionGate()),mounted=useRef(true),abort=useRef<AbortController|null>(null),redirect=useRef<ReturnType<typeof setTimeout>|undefined>(undefined);
  const reduced=useReducedMotion(),pending=phase!=="idle";
@@ -51,7 +51,7 @@ export function Login({configured,localDemo=false,passwordOnly=false,name="Villa
      <button type="submit" tabIndex={-1} className="sr-only" disabled={pending}>Sign in</button>
      <p className="sr-only" role="status">{phase==="pending"?"Checking your account…":phase==="success"?step==="password"&&!localDemo&&!passwordOnly?"Password accepted. Continue with your authenticator.":"Sign-in confirmed. Opening villa management.":""}</p>
      {step==="otp"&&<button className="login-restart" type="button" disabled={pending} onClick={()=>{setStep("password");setCode("");setError("");}}>Restart sign-in</button>}
-    </form>:<p className="login-error" role="status">Server authentication is not configured. Ask the deployment operator to complete the M1 environment setup.</p>}
+    </form>:<p className="login-error" role="status">Server authentication is not configured. Ask the deployment operator to complete the M1 environment setup.{problem&&<><br/>{problem}</>}</p>}
     <a className="login-return" href="/"><span aria-hidden="true">←</span> Return to villa</a>
    </div>
    <span className="login-footnote">Villa management</span>

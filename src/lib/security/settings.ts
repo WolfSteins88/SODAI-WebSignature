@@ -53,6 +53,13 @@ export function deploymentScope(env: NodeJS.ProcessEnv = hostedEnv()) {
     storeName: `villa-${key.slice(0, 48)}`,
   };
 }
+export class SettingError extends Error {}
+// Names (never values) of the variable at fault, so the login page can say what to fix.
+function read<T>(name: string, schema: z.ZodType<T>, value: unknown): T {
+  const parsed = schema.safeParse(value);
+  if (!parsed.success) throw new SettingError(`${name} is ${value === undefined || value === "" ? "missing" : "invalid"}.`);
+  return parsed.data;
+}
 export function accountSettings(env: NodeJS.ProcessEnv = hostedEnv()) {
   const identifier = z
     .string()
@@ -61,29 +68,29 @@ export function accountSettings(env: NodeJS.ProcessEnv = hostedEnv()) {
     .max(120)
     .transform((x) => x.toLowerCase());
   const hash = z.string().regex(/^\$2[aby]\$(1[2-6])\$[./A-Za-z0-9]{53}$/);
-  const secret = z.string().min(32).parse(env.AUTH_SECRET);
-  const version = z.string().min(1).max(64).parse(env.AUTH_SESSION_VERSION);
+  const secret = read("AUTH_SECRET", z.string().min(32), env.AUTH_SECRET);
+  const version = read("AUTH_SESSION_VERSION", z.string().min(1).max(64), env.AUTH_SESSION_VERSION);
   const scope = deploymentScope(env);
   const localDemo = Boolean(localDemoConfig(env));
   // ADMIN_TOTP=off is the operator's explicit choice of password-only sign-in.
   const passwordOnly = !localDemo && env.ADMIN_TOTP === "off";
   const totp = passwordOnly ? z.unknown().transform(() => "") : z.string().regex(/^[A-Z2-7]{32,128}$/);
-  const accounts = localDemo ? [{id:"admin",role:"super_admin" as const,hash:hash.parse(env.LOCAL_DEMO_PASSWORD_HASH),totp:""}] : [
+  const accounts = localDemo ? [{id:"admin",role:"super_admin" as const,hash:read("LOCAL_DEMO_PASSWORD_HASH", hash, env.LOCAL_DEMO_PASSWORD_HASH),totp:""}] : [
     {
-      id: identifier.parse(env.OWNER_IDENTIFIER),
+      id: read("OWNER_IDENTIFIER", identifier, env.OWNER_IDENTIFIER),
       role: "owner" as const,
-      hash: hash.parse(env.OWNER_PASSWORD_HASH),
-      totp:totp.parse(env.OWNER_TOTP_SECRET),
+      hash: read("OWNER_PASSWORD_HASH", hash, env.OWNER_PASSWORD_HASH),
+      totp:read("OWNER_TOTP_SECRET", totp, env.OWNER_TOTP_SECRET),
     },
     {
-      id: identifier.parse(env.SUPER_ADMIN_IDENTIFIER),
+      id: read("SUPER_ADMIN_IDENTIFIER", identifier, env.SUPER_ADMIN_IDENTIFIER),
       role: "super_admin" as const,
-      hash: hash.parse(env.SUPER_ADMIN_PASSWORD_HASH),
-      totp:totp.parse(env.SUPER_ADMIN_TOTP_SECRET),
+      hash: read("SUPER_ADMIN_PASSWORD_HASH", hash, env.SUPER_ADMIN_PASSWORD_HASH),
+      totp:read("SUPER_ADMIN_TOTP_SECRET", totp, env.SUPER_ADMIN_TOTP_SECRET),
     },
   ];
   if (accounts.length > 1 && accounts[0].id === accounts[1].id)
-    throw new Error("Account identifiers must differ");
+    throw new SettingError("OWNER_IDENTIFIER and SUPER_ADMIN_IDENTIFIER must differ.");
   const fingerprint = createHmac("sha256", secret)
     .update(JSON.stringify([scope.key, version, accounts, localDemo, passwordOnly]))
     .digest("hex");
