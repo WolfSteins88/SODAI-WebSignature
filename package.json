@@ -23,7 +23,8 @@
     "review:signature:slow": "node --conditions=react-server --import tsx scripts/review-signature-slow.ts",
     "demo:local": "node --conditions=react-server --import tsx scripts/demo-local.ts",
     "demo:data": "node --import tsx scripts/demo-backup.ts",
-    "test:local": "node --conditions=react-server --import tsx scripts/check-local-demo.ts"
+    "test:local": "node --conditions=react-server --import tsx scripts/check-local-demo.ts",
+    "db:seed:netlify": "node --conditions=react-server --import tsx scripts/netlify-seed-migration.ts"
   },
   "dependencies": {
     "@netlify/blobs": "11.1.3",

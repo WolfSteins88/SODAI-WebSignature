@@ -1,0 +1,1 @@
+ALTER TABLE "archived_content" ADD COLUMN "position" integer DEFAULT 0 NOT NULL;

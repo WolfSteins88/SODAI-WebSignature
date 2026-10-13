@@ -68,6 +68,7 @@ Server-only Blobs helpers authorize every read/write/delete, accept no caller na
 2. Use Netlify Next.js framework detection/adapter, build `npm run build`, publish `.next`, Node 22. Do not static-export.
 3. Set distinct site IDs, origins, auth secrets and fixed accounts; select each template. Production uses `CONTENT_ENV=production`; previews use `preview` plus the platform deploy ID. Configure server-only variables per deploy context.
 4. Enable Netlify Database, select the proper branch, apply migrations and seed using exactly matching scope; verify Blobs runtime context.
+   Netlify applies `netlify/database/migrations/` automatically on each production deploy. Those files mirror `drizzle/`; add new schema migrations to both. The Signature production seed there was generated with `VILLA_ID=sodai-signature CONTENT_ENV=production CONTEXT=production npm run db:seed:netlify`; regenerate it with a new timestamp prefix for another scope.
 5. Set `CONTENT_MODE=live`, deploy and perform the hosted checks in `docs/verification.md`.
 
 The CLI currently reports **Not logged in**. No authenticated linked project, Database connection or Blobs runtime context is available, so live integrations remain unverified.
