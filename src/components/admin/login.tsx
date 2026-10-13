@@ -7,7 +7,7 @@ import {LoginSlide,type LoginPhase} from "./login-slide";
 import {createSubmissionGate} from "./login-interactions";
 import "./login.css";
 
-export function Login({configured,localDemo=false,name="Villa management"}:{configured:boolean;localDemo?:boolean;name?:string}){
+export function Login({configured,localDemo=false,passwordOnly=false,name="Villa management"}:{configured:boolean;localDemo?:boolean;passwordOnly?:boolean;name?:string}){
  const [step,setStep]=useState<"password"|"otp">("password"),[phase,setPhase]=useState<LoginPhase>("idle"),[error,setError]=useState(""),[code,setCode]=useState("");
  const form=useRef<HTMLFormElement>(null),gate=useRef(createSubmissionGate()),mounted=useRef(true),abort=useRef<AbortController|null>(null),redirect=useRef<ReturnType<typeof setTimeout>|undefined>(undefined);
  const reduced=useReducedMotion(),pending=phase!=="idle";
@@ -19,7 +19,7 @@ export function Login({configured,localDemo=false,name="Villa management"}:{conf
   event.preventDefault();if(!gate.current.enter())return;
   setPhase("pending");setError("");const element=event.currentTarget,data=new FormData(element);
   try{
-   if(localDemo){
+   if(localDemo||passwordOnly){
     const result=await signIn("credentials",{identifier:data.get("identifier"),password:data.get("password"),redirect:false,redirectTo:"/admin"});
     if(result?.error || !result?.ok)fail("Sign-in failed. Check your credentials or try again later.");
     else complete(()=>window.location.assign("/admin"));
@@ -49,7 +49,7 @@ export function Login({configured,localDemo=false,name="Villa management"}:{conf
      {error&&<p className="login-error" role="alert">{error}</p>}
      <LoginSlide key={step} phase={phase} validate={validate} onConfirm={()=>{if(validate())form.current?.requestSubmit();}}/>
      <button type="submit" tabIndex={-1} className="sr-only" disabled={pending}>Sign in</button>
-     <p className="sr-only" role="status">{phase==="pending"?"Checking your account…":phase==="success"?step==="password"&&!localDemo?"Password accepted. Continue with your authenticator.":"Sign-in confirmed. Opening villa management.":""}</p>
+     <p className="sr-only" role="status">{phase==="pending"?"Checking your account…":phase==="success"?step==="password"&&!localDemo&&!passwordOnly?"Password accepted. Continue with your authenticator.":"Sign-in confirmed. Opening villa management.":""}</p>
      {step==="otp"&&<button className="login-restart" type="button" disabled={pending} onClick={()=>{setStep("password");setCode("");setError("");}}>Restart sign-in</button>}
     </form>:<p className="login-error" role="status">Server authentication is not configured. Ask the deployment operator to complete the M1 environment setup.</p>}
     <a className="login-return" href="/"><span aria-hidden="true">←</span> Return to villa</a>

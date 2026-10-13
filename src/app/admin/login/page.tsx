@@ -3,9 +3,9 @@ import {publishedContent} from "@/lib/content/service";
 import { accountSettings } from "@/lib/security/settings";
 export const dynamic = "force-dynamic";
 export default async function LoginPage() {
-  let configured = true;let localDemo=false;
+  let configured = true;let localDemo=false;let passwordOnly=false;
   try {
-    localDemo=accountSettings().localDemo;
+    ({localDemo,passwordOnly}=accountSettings());
   } catch {
     configured = false;
   }
@@ -13,7 +13,7 @@ export default async function LoginPage() {
   try { name = (await publishedContent()).name; } catch { /* Login remains available when content storage is unavailable. */ }
   return (
     <main className="login-page login-redesign">
-      <Login configured={configured} localDemo={localDemo} name={name} />
+      <Login configured={configured} localDemo={localDemo} passwordOnly={passwordOnly} name={name} />
     </main>
   );
 }

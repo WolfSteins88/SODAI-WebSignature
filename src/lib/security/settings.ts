@@ -64,8 +64,10 @@ export function accountSettings(env: NodeJS.ProcessEnv = hostedEnv()) {
   const secret = z.string().min(32).parse(env.AUTH_SECRET);
   const version = z.string().min(1).max(64).parse(env.AUTH_SESSION_VERSION);
   const scope = deploymentScope(env);
-  const totp = z.string().regex(/^[A-Z2-7]{32,128}$/);
   const localDemo = Boolean(localDemoConfig(env));
+  // ADMIN_TOTP=off is the operator's explicit choice of password-only sign-in.
+  const passwordOnly = !localDemo && env.ADMIN_TOTP === "off";
+  const totp = passwordOnly ? z.unknown().transform(() => "") : z.string().regex(/^[A-Z2-7]{32,128}$/);
   const accounts = localDemo ? [{id:"admin",role:"super_admin" as const,hash:hash.parse(env.LOCAL_DEMO_PASSWORD_HASH),totp:""}] : [
     {
       id: identifier.parse(env.OWNER_IDENTIFIER),
@@ -83,7 +85,7 @@ export function accountSettings(env: NodeJS.ProcessEnv = hostedEnv()) {
   if (accounts.length > 1 && accounts[0].id === accounts[1].id)
     throw new Error("Account identifiers must differ");
   const fingerprint = createHmac("sha256", secret)
-    .update(JSON.stringify([scope.key, version, accounts, localDemo]))
+    .update(JSON.stringify([scope.key, version, accounts, localDemo, passwordOnly]))
     .digest("hex");
-  return { secret, accounts, scope, version: fingerprint, localDemo };
+  return { secret, accounts, scope, version: fingerprint, localDemo, passwordOnly };
 }
