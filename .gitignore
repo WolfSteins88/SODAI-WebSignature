@@ -7,8 +7,7 @@ node_modules/
 *.tsbuildinfo
 test-results/
 playwright-report/
-docs/reference/desktop/
-docs/reference/mobile/
+docs/
 .local-tools/
 
 local-data/
