@@ -1,0 +1,26 @@
+[
+  {
+    "name": "forward",
+    "capturedFrames": 271,
+    "intentToCleanup": 1696.3999999761581,
+    "passed": true
+  },
+  {
+    "name": "reverse",
+    "capturedFrames": 276,
+    "intentToCleanup": 1688,
+    "passed": true
+  },
+  {
+    "name": "slow",
+    "capturedFrames": 463,
+    "intentToCleanup": 2866.100000023842,
+    "passed": true
+  },
+  {
+    "name": "failure",
+    "capturedFrames": 120,
+    "intentToCleanup": 777.1000000238419,
+    "passed": true
+  }
+]

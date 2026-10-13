@@ -1,0 +1,66 @@
+{
+  "name": "sodai-villa-templates",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --conditions=react-server --import tsx --test tests/*.test.ts",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "node --conditions=react-server --import tsx scripts/setup.ts migrate",
+    "db:seed": "node --conditions=react-server --import tsx scripts/setup.ts seed",
+    "db:seed:reference": "node --conditions=react-server --import tsx scripts/setup.ts seed-reference",
+    "test:http": "node --conditions=react-server --import tsx scripts/check-http.mjs",
+    "accounts:provision": "node scripts/provision-accounts.mjs",
+    "password:hash": "node scripts/hash-password.mjs",
+    "test:standard": "node --conditions=react-server --import tsx scripts/check-standard.ts",
+    "review:cms": "node --conditions=react-server --import tsx scripts/review-cms.ts",
+    "review:standard": "node --conditions=react-server --import tsx scripts/standard-fixture.ts review",
+    "review:signature": "node --conditions=react-server --import tsx scripts/standard-fixture.ts review signature",
+    "test:signature": "node --conditions=react-server --import tsx scripts/check-standard.ts signature",
+    "review:signature:slow": "node --conditions=react-server --import tsx scripts/review-signature-slow.ts",
+    "demo:local": "node --conditions=react-server --import tsx scripts/demo-local.ts",
+    "demo:data": "node --import tsx scripts/demo-backup.ts",
+    "test:local": "node --conditions=react-server --import tsx scripts/check-local-demo.ts"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.3",
+    "@netlify/database": "2.0.1",
+    "bcryptjs": "3.0.3",
+    "drizzle-orm": "0.45.3",
+    "gsap": "3.15.0",
+    "motion": "14.0.0",
+    "next": "16.3.8",
+    "next-auth": "5.0.0-beta.32",
+    "otpauth": "9.5.2",
+    "pg": "8.23.1",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-hook-form": "7.89.0",
+    "server-only": "0.0.1",
+    "sharp": "0.35.5",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8",
+    "@electric-sql/pglite-socket": "0.2.11",
+    "@playwright/test": "1.63.0",
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "26.6.4",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "drizzle-kit": "0.31.11",
+    "prettier": "3.9.9",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "@esbuild-kit/core-utils": {
+      "esbuild": "0.25.12"
+    }
+  }
+}

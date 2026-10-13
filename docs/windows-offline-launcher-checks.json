@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-13",
+  "platform": "Windows; Node 24.19.0; PowerShell; project path contains spaces",
+  "passed": [
+    "Actual root BAT launch starts embedded PostgreSQL/socket and Next production server on custom port3117",
+    "Ready message and default-browser invocation occur only after project identity handshake and login HTTP readiness",
+    "Duplicate launch reuses verified project/dataset/port; independent dataset on same port rejects promptly with exit1",
+    "Enter shutdown exits0, stops owned website/socket/database and removes running.lock/running.json",
+    "Authenticated --stop shuts down owner runner; restart retains Draft9/Live9 without content writes",
+    "Dead-PID lock recovery; live/ambiguous owners refused; foreign lock never released by unit test",
+    "70 regression tests; final TypeScript check; production build65607",
+    "Isolated real PostgreSQL/Auth.js/draft/publish/upload/restart/exact bytes/backup restore suite",
+    "Same integration suite passes with Node outbound network guard, loopback only; outbound example.com fetch demonstrably rejected",
+    "Browser owner local login and unchanged Draft9/Live9/zero changes after restart",
+    "CMS dashboard and Story DOM script/image/stylesheet/font URLs are local; no broken dashboard images"
+  ],
+  "limits": [
+    "Physical Windows adapter-off/default-browser network-off workflow not tested; Node outbound guard is narrower",
+    "Default-browser Start-Process command succeeded; its window was not inspected through native automation",
+    "Enter and authenticated --stop verified; Ctrl+C handler implemented but PTY control character did not establish native console Ctrl+C verification",
+    "Forced window X/process-tree termination can bypass asynchronous cleanup; use Enter, wait for exit",
+    "Owner-configured external photos/documents and outbound booking/maps/social destinations need networking or local replacement",
+    "No Netlify live integrations or M6 deployment verification performed",
+    "Earlier M4 intro/logo visual interaction matrix remains separately unfinished"
+  ],
+  "evidence": [
+    "docs/evidence/windows-launcher/owner-dashboard.png",
+    "docs/evidence/windows-launcher/public-assets.json",
+    "docs/m5-local-demo-checks.json"
+  ],
+  "ownerReview": "http://localhost:3112/",
+  "ownerCms": "http://localhost:3112/admin/login",
+  "runnerSession": 65520
+}

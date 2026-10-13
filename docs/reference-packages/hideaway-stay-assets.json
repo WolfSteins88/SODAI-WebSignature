@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "id": "32032341633a0e03",
+      "kind": "image",
+      "name": "hideaway-packagejpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/b7912aa9-836a-457a-a908-cc7362490340/32032341633a0e03.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/hideaway-package/13d0d9af-8e48-4fc6-8b8f-386d320eed5b/raw/hideaway-packagejpg.jpeg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "fa3d6bc2e5bad81e",
+      "kind": "image",
+      "name": "flowerpng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/b7912aa9-836a-457a-a908-cc7362490340/fa3d6bc2e5bad81e.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/hideaway-package/e586489c-494d-467b-b30b-1f4e011afbe2/raw/flowerpng.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4ce6c61e028441f7",
+      "kind": "image",
+      "name": "hideaway-right-imagejpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/b7912aa9-836a-457a-a908-cc7362490340/4ce6c61e028441f7.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/hideaway-package/0f21260b-abaf-4ea6-897d-666e06a2b0ff/raw/hideaway-right-imagejpg.jpeg"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/b7912aa9-836a-457a-a908-cc7362490340",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/b7912aa9-836a-457a-a908-cc7362490340/manifest.json",
+  "summary": {
+    "downloadedCount": 3,
+    "elapsedMs": 196.86500000022352,
+    "failedCount": 0,
+    "requestedCount": 3
+  }
+}

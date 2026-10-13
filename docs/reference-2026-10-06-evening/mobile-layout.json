@@ -1,0 +1,69 @@
+{
+  "scrollWidth": 386,
+  "sections": [
+    {
+      "height": 684,
+      "id": "story-opener",
+      "top": 0,
+      "width": 386
+    },
+    {
+      "height": 646.7604370117188,
+      "id": "the-1960s",
+      "top": 684,
+      "width": 386
+    },
+    {
+      "height": 2456.6875,
+      "id": "sanur-timeline",
+      "top": 1330.7607421875,
+      "width": 386
+    },
+    {
+      "height": 1488.375,
+      "id": "founding",
+      "top": 3787.4482421875,
+      "width": 386
+    },
+    {
+      "height": 851.6979370117188,
+      "id": "intimacy-with-bali",
+      "top": 5275.8232421875,
+      "width": 386
+    },
+    {
+      "height": 1174.1458740234375,
+      "id": "batujimbar-estate",
+      "top": 6127.52099609375,
+      "width": 386
+    },
+    {
+      "height": 1028.572998046875,
+      "id": "cultural-performance",
+      "top": 7301.6669921875,
+      "width": 386
+    },
+    {
+      "height": 1342.90625,
+      "id": "gentle-renaissance",
+      "top": 8330.23974609375,
+      "width": 386
+    },
+    {
+      "height": 965.5208740234376,
+      "id": "a-magical-door",
+      "top": 9673.14599609375,
+      "width": 386
+    },
+    {
+      "height": 500.9895935058594,
+      "id": "documentary-still",
+      "top": 10638.6669921875,
+      "width": 386
+    }
+  ],
+  "viewport": [
+    386,
+    684
+  ]
+}

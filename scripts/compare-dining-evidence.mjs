@@ -1,0 +1,4 @@
+import sharp from 'sharp';
+const dir='docs/reference-dining';for(const [n,t,name,label] of [[1,0,'after-hero-final.png','Illustrated hero / reference0s'],[2,6,'after-categories-final.png','Categories / reference6s (nearby scroll position)'],[3,33,'after-menu-final.png','All Day menu / reference33s']]){
+const ref=await sharp(`${dir}/frame-${String(t).padStart(3,'0')}.jpg`).resize(1278,700).toBuffer();const local=await sharp(`${dir}/${name}`).resize(1278,700).toBuffer();const title=Buffer.from(`<svg width="2556" height="40"><rect width="2556" height="40" fill="#222"/><text x="15" y="28" font-size="23" fill="white">${n}. ${label}; half-scale recording reference left / local1278x700 right</text></svg>`);await sharp({create:{width:2556,height:740,channels:3,background:'#222'}}).composite([{input:title,left:0,top:0},{input:ref,left:0,top:40},{input:local,left:1278,top:40}]).png().toFile(`${dir}/comparison-0${n}.png`);
+}

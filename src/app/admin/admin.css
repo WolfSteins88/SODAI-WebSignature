@@ -1,0 +1,77 @@
+.login-page {
+  min-height: 100svh;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: #f5f2e9;
+  color: #35402b;
+}
+.admin-card {
+  width: min(100%, 560px);
+  padding: clamp(24px, 5vw, 48px);
+  border: 1px solid #d8dccd;
+  background: #fffdf7;
+  border-radius: 12px;
+}
+.admin-card h1 {
+  font-size: clamp(28px, 4vw, 38px);
+  margin: 16px 0 24px;
+}
+.admin-card p {
+  line-height: 1.6;
+  margin: 16px 0;
+}
+.admin-card form {
+  display: grid;
+  gap: 20px;
+  margin: 24px 0;
+}
+.admin-card label {
+  display: grid;
+  gap: 8px;
+  font-size: 14px;
+}
+.admin-card input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #bbc1ae;
+  border-radius: 4px;
+  background: white;
+  color: #243021;
+}
+.admin-card button {
+  padding: 12px 20px;
+  border-radius: 4px;
+  background: #4e593e;
+  color: white;
+  cursor: pointer;
+  min-height: 44px;
+  margin: 12px 0;
+}
+.admin-card button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+.admin-card a {
+  text-decoration: underline;
+  display: block;
+  margin: 16px 0;
+}
+.admin-card :is(input, button, a):focus-visible {
+  outline: 3px solid #647650;
+  outline-offset: 3px;
+}
+.admin-card dt {
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 16px;
+}
+.admin-card dd {
+  margin: 4px 0;
+}
+.admin-card [role="alert"] {
+  color: #9b2525;
+}
+
+/* Bencho Label Input/One-time Code adaptations: real fields; server owns verification. */
+.cms-login form>label:has(input[name=identifier]),.cms-login form>label:has(input[name=password]){position:relative;padding-top:8px}.cms-login form>label:focus-within{color:#275440}.cms-login input:focus{outline:2px solid #4c7b60}.cms-otp{position:relative;margin:15px 0;max-width:320px}.cms-otp-cells{display:flex;gap:7px}.cms-otp-cells span{display:grid;place-items:center;width:42px;height:52px;background:#e8ece6;border:1px solid #a8b7ac;border-radius:12px;font-size:24px;transition:background .2s}.cms-otp:focus-within span{border-color:#4c7b60}.cms-otp input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0;cursor:text}.cms-otp:focus-within{outline:2px solid #4c7b60;outline-offset:4px;border-radius:12px}@media(prefers-reduced-motion:reduce){.cms-otp *{transition:none!important}}

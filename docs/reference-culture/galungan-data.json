@@ -1,0 +1,40 @@
+{
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/galungan/3bab5271-0c76-426b-bf16-fb73ed2ffed8/raw/mt2012003g-642-1jpg.jpeg",
+  "sections": [
+    {
+      "class": "horizontal-split-image-text-1 single-description",
+      "headings": [
+        "The essence of Galungan is to defeat evil in oneself so that we can live in peace and harmony."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/galungan/45c7984f-8cec-4110-9e94-ac6592b50b14/raw/dsc00663-editedjpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-71fa568a=\"\"><div class=\"column\" data-v-71fa568a=\"\"><div class=\"full-height-image padded\" data-v-71fa568a=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div></div><div class=\"column\" data-v-71fa568a=\"\"><h2 class=\"title font-heading2-dh\" data-v-71fa568a=\"\">The essence of Galungan is to defeat evil in oneself so that we can live in peace and harmony.</h2><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>According to old written records, Galungan was first celebrated on the 15th full moon of the year 804 in the Balinese Saka calendar, or 882 AD, to honor the triumph of Lord Indra over the evil king Mayadenawa, seen as a victory of good over evil. The term Galungan comes from Old Javanese and means ‘battle, combat’.</p></div></div><div class=\"column\" data-v-71fa568a=\"\"><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>The Balinese believe that the spirits of the ancestors return home during Galungan. Therefore, prayers and offerings are prepared to welcome the spirits.</p></div></div></div>",
+      "paragraphs": [
+        "According to old written records, Galungan was first celebrated on the 15th full moon of the year 804 in the Balinese Saka calendar, or 882 AD, to honor the triumph of Lord Indra over the evil king Mayadenawa, seen as a victory of good over evil. The term Galungan comes from Old Javanese and means ‘battle, combat’.",
+        "The Balinese believe that the spirits of the ancestors return home during Galungan. Therefore, prayers and offerings are prepared to welcome the spirits."
+      ]
+    },
+    {
+      "class": "horizontal-split-image-text-overlay",
+      "headings": [
+        "On Galungan day, the island takes on an even more magical atmosphere"
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/c179243c-f54f-4f39-bd99-5872152d485c/raw/dsc04206-1jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-e4ed27ee=\"\"><div class=\"column\" data-v-e4ed27ee=\"\"><div class=\"full-height-image\" data-v-e4ed27ee=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div>[SVG]</div><div class=\"column\" data-v-e4ed27ee=\"\"><h2 class=\"title font-heading2-dh\" data-v-e4ed27ee=\"\">On Galungan day, the island takes on an even more magical atmosphere</h2><!----><div class=\"description font-body2-dh\" data-v-e4ed27ee=\"\"><p>with the towering penjor (decorated bamboo poles) standing at the gate of every house.</p><p>The Balinese believe that the spirits of the ancestors return home during Galungan. Therefore, prayers and offerings are prepared to welcome the spirits.</p></div></div></div>",
+      "paragraphs": [
+        "with the towering penjor (decorated bamboo poles) standing at the gate of every house.",
+        "The Balinese believe that the spirits of the ancestors return home during Galungan. Therefore, prayers and offerings are prepared to welcome the spirits."
+      ]
+    }
+  ],
+  "title": "Galungan"
+}

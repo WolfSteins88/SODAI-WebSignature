@@ -1,0 +1,75 @@
+{
+  "entries": [
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/galungan/3bab5271-0c76-426b-bf16-fb73ed2ffed8/raw/mt2012003g-642-1jpg.jpeg",
+      "slug": "galungan",
+      "summary": "The Galungan holiday, one of Bali’s most important, falls once every 210 days, in the Balinese week of Dunggulan, always on a Wednesday.",
+      "title": "Galungan"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/kuningan-lan-mekotek/7c46de9a-64ae-4a11-ba54-5c70ea8cd037/raw/dsc09995-edit-1jpg.jpeg",
+      "slug": "kuningan-and-mekotek",
+      "summary": "Kuningan is a Balinese holy day celebrated ten days after Galungan. It derives from ka-uningan, meaning wisdom, and the ritual aim is to attain spiritual elevation through introspection.",
+      "title": "Kuningan & Mekotek"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/ba3fc07e-01c0-42ef-9869-39a4dd02603c/raw/mt2012003g-803jpg.jpeg",
+      "slug": "nyepi",
+      "summary": "The Balinese New Year is known as Nyepi and is celebrated according to the Saka lunar calendar, on the dark of the moon of the spring equinox, usually falling in March or early April.",
+      "title": "Nyepi"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/melasti/921906f3-a06a-4aaf-bc79-50b84d2dd8ae/raw/dsc02635-1jpg.jpeg",
+      "slug": "melasti",
+      "summary": "Three days before Nyepi, a large purification\nceremony called melasti is held by villages all over Bali.",
+      "title": "Melasti"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/ogoh-ogoh/c488a03e-da9e-4862-92a9-9ba884740461/raw/dsc01789-1-3jpg.jpeg",
+      "slug": "ogoh-ogoh",
+      "summary": "In the evening of Pengrupukan, the day before\nNyepi, villages parade ogoh-ogoh—giant effigies of demons, designed and\nbuilt by the youth of each community.",
+      "title": "Ogoh-ogoh"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/ea991cf4-ab6c-49d9-9d9e-0520f0aaffad/raw/dsc01070jpg.jpeg",
+      "slug": "piodalan",
+      "summary": "A piodalan is a temple’s anniversary,\nwhen the deities are believed to come down from heaven to the temple shrines,\npartake of offerings, and convey blessings through the medium of holy water.",
+      "title": "Piodalan"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/bali-art-festival/4ae8b814-5f56-4ea4-9d34-249ba862d353/raw/dsc05353-1jpg.jpeg",
+      "slug": "bali-art-festival",
+      "summary": "The island’s largest and most spectacular\ncultural event, the Bali Arts Festival (Pesta Kesenian Bali), is an annual\nprogram organized by the government of Bali Province.",
+      "title": "Bali Art Festival"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/perang-pandan/65c0aff6-6e57-417d-a8e0-3bc75b43c753/raw/dsc04466-1jpg.jpeg",
+      "slug": "perang-pandan-and-ayunan-jantra",
+      "summary": "The Bali Aga village of Tenganan Dauh Tukad in Karangasem Regency has a unique tradition of a ritual battle with spiny pandan leaves, known as mekare-kare or mageret pandan.",
+      "title": "Perang Pandan & Ayunan Jantra"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/purnama-and-tilem/57135204-29e3-42eb-a00e-7d8c2ecebea6/raw/dsc06678-2-1jpg.jpeg",
+      "slug": "purnama-and-tilem",
+      "summary": "The full moon (Purnama) and the dark of the moon (Tilem) are always sacred days for Balinese Hindus.",
+      "title": "Purnama & Tilem"
+    },
+    {
+      "image": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/offerings/d544aad4-73d3-4574-8c09-dcc173dd60f4/raw/dsc02775-1jpg.jpeg",
+      "slug": "offerings",
+      "summary": "In Bali, all religious rites, large and small, are carried out with offerings, called banten in Balinese.",
+      "title": "Offerings"
+    }
+  ],
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/f1e69255-770a-4453-8948-a183c3ebe8c6/raw/02-1jpg.jpeg",
+  "intro": [
+    "Some are just around the corner, while others invite you to embark on an adventure, requiring a tour or transportation to reach their distant beauty.",
+    "The Balinese cultural calendar, following the Saka/local calendar, unfolds throughout the year, offering a journey of inspiration and wonder."
+  ],
+  "introImages": [
+    "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/98e7b693-f041-466b-8b33-11f230c17ef4/raw/untitled-1-1jpg.jpeg",
+    "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/c37e9f11-cfe8-406a-ae38-71745328c574/raw/dsc02810-1-2jpg.jpeg"
+  ],
+  "introTitle": "Bali, with its enchanting charm, presents a tapestry of unique and authentic cultural experiences waiting to be discovered across the island. ",
+  "title": "Cultures"
+}

@@ -1,0 +1,4 @@
+import {localDemoConfig} from '@/lib/security/local-demo';
+import {requireAccess,apiError,HttpError} from '@/lib/security/access';import {db} from '@/lib/db';import {scope,variant} from '@/lib/config';import {sql} from 'drizzle-orm';
+export const dynamic='force-dynamic';
+export async function GET(){try{const p=await requireAccess();if(p.role!=='super_admin')throw new HttpError(403,'Super Admin only.');await db().execute(sql`select 1`);return Response.json({database:'reachable',template:variant,environment:scope.environment,storage:localDemoConfig()?'Local persistent filesystem':'Netlify Blobs; live verification required',accounts:localDemoConfig()?1:2,videoPlayback:'planned; publish disabled',contentVersion:1},{headers:{'Cache-Control':'private, no-store'}});}catch(e){return apiError(e);}}

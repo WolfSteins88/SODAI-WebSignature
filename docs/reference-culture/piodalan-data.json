@@ -1,0 +1,58 @@
+{
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/ea991cf4-ab6c-49d9-9d9e-0520f0aaffad/raw/dsc01070jpg.jpeg",
+  "sections": [
+    {
+      "class": "horizontal-split-image-text-1 single-description",
+      "headings": [
+        "Temple anniversaries date from their founding and occur all around the year, whether on the 210-day Balinese calendar or the Saka lunar calendar."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/d3fec353-be3f-4896-a078-4352e66003c1/raw/dsc00656-2jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-71fa568a=\"\"><div class=\"column\" data-v-71fa568a=\"\"><div class=\"full-height-image padded\" data-v-71fa568a=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div></div><div class=\"column\" data-v-71fa568a=\"\"><h2 class=\"title font-heading2-dh\" data-v-71fa568a=\"\">Temple anniversaries date from their founding and occur all around the year, whether on the 210-day Balinese calendar or the Saka lunar calendar.</h2><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>The gods are welcomed with offerings of food, flowers, traditional music, and dances. People wear their best temple clothes, and it is a very happy time.</p></div></div><div class=\"column\" data-v-71fa568a=\"\"><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p><br></p></div></div></div>",
+      "paragraphs": [
+        "The gods are welcomed with offerings of food, flowers, traditional music, and dances. People wear their best temple clothes, and it is a very happy time.",
+        ""
+      ]
+    },
+    {
+      "class": "horizontal-split-image-text-overlay",
+      "headings": [
+        "The piodalan ceremony is also held at Pura Tandjung Sari—the beachfront temple for which the hotel is named—on Purnama Sasih Kedasa."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/84bffb9c-907c-44d4-be74-71e127e2dee5/raw/dsc01072jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-e4ed27ee=\"\"><div class=\"column\" data-v-e4ed27ee=\"\"><div class=\"full-height-image\" data-v-e4ed27ee=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div>[SVG]</div><div class=\"column\" data-v-e4ed27ee=\"\"><h2 class=\"title font-heading2-dh\" data-v-e4ed27ee=\"\"> The piodalan ceremony is also held at Pura Tandjung Sari—the beachfront temple for which the hotel is named—on Purnama Sasih Kedasa.</h2><!----><div class=\"description font-body2-dh\" data-v-e4ed27ee=\"\"><p></p><section data-v-b398b354=\"\"></section><p></p><section data-v-b398b354=\"\"><p>Purnama sasih kedasa is the full moon of the tenth month of the Saka lunar calendar. It is a particularly holy day in Bali and usually falls in March or April.&nbsp;</p><p><br></p><p>You are welcome to witness this beautiful religious occasion. As with any Balinese ceremony, a sarong, and a sash, with a kebaya blouse for women, are required to be worn by those attending the ceremony.</p></section></div></div></div>",
+      "paragraphs": [
+        "",
+        "",
+        "Purnama sasih kedasa is the full moon of the tenth month of the Saka lunar calendar. It is a particularly holy day in Bali and usually falls in March or April.",
+        "",
+        "You are welcome to witness this beautiful religious occasion. As with any Balinese ceremony, a sarong, and a sash, with a kebaya blouse for women, are required to be worn by those attending the ceremony."
+      ]
+    },
+    {
+      "class": "next",
+      "headings": [],
+      "images": [
+        {
+          "alt": "Bali Art Festival",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/bali-art-festival/4ae8b814-5f56-4ea4-9d34-249ba862d353/raw/dsc05353-1jpg.jpeg"
+        }
+      ],
+      "markup": "<p class=\"subtitle font-subtitle1\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><span class=\"line\" data-v-dd9fc100=\"\">Next page</span></span></p><div class=\"image-wrapper\" data-v-dd9fc100=\"\">[PHOTO]</div><h1 class=\"title font-heading2\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><div class=\"line\" data-v-dd9fc100=\"\">Bali Art Festival</div></span></h1><div class=\"scroll\" data-v-dd9fc100=\"\"><p class=\"keep-scroll font-button1\" data-v-dd9fc100=\"\">Keep Scroll</p><div class=\"progress\" data-v-dd9fc100=\"\"><div class=\"progress-fill\" data-v-dd9fc100=\"\"></div></div></div>",
+      "paragraphs": [
+        "Next page",
+        "Keep Scroll"
+      ]
+    }
+  ],
+  "title": "Piodalan"
+}

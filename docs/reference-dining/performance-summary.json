@@ -1,0 +1,15 @@
+{
+  "viewport": [
+    1280,
+    720
+  ],
+  "durationMs": 44627.5,
+  "frames": 7361,
+  "median": 6.099999999991269,
+  "p95": 6.100000000005821,
+  "max": 12.200000000011642,
+  "over16_7": 0,
+  "movingFrames": 2,
+  "longTasks": 0,
+  "longAnimationFrames": []
+}

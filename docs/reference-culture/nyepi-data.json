@@ -1,0 +1,57 @@
+{
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/ba3fc07e-01c0-42ef-9869-39a4dd02603c/raw/mt2012003g-803jpg.jpeg",
+  "sections": [
+    {
+      "class": "horizontal-split-image-text-1 single-description",
+      "headings": [
+        "The word nyepi comes from ‘sepi’, meaning ‘empty’."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/6f1d0c72-d87a-4e0f-a4be-9e20acf34eb5/raw/img0985-1jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-71fa568a=\"\"><div class=\"column\" data-v-71fa568a=\"\"><div class=\"full-height-image padded\" data-v-71fa568a=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div></div><div class=\"column\" data-v-71fa568a=\"\"><h2 class=\"title font-heading2-dh\" data-v-71fa568a=\"\">The word nyepi comes from ‘sepi’, meaning ‘empty’. </h2><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>Although Nyepi is a traditional Balinese Hindu celebration, it has become a national holiday in Indonesia. The folk idea is to make the world appear as if deserted, so that disruptive spirits will abandon the island and look elsewhere to cause mischief.</p></div></div><div class=\"column\" data-v-71fa568a=\"\"><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>The word nyepi comes from ‘sepi’, meaning ‘empty’. The traditional idea is to make the world appear as if deserted, so that disruptive spirits will abandon the island.</p><p>On Nyepi, everyone is asked to stay inside their home compound for 24 hours, from dawn to the following dawn. Visitors, too, must comply with this custom and are asked not to stray from the hotel grounds.&nbsp;</p></div></div></div>",
+      "paragraphs": [
+        "Although Nyepi is a traditional Balinese Hindu celebration, it has become a national holiday in Indonesia. The folk idea is to make the world appear as if deserted, so that disruptive spirits will abandon the island and look elsewhere to cause mischief.",
+        "The word nyepi comes from ‘sepi’, meaning ‘empty’. The traditional idea is to make the world appear as if deserted, so that disruptive spirits will abandon the island.",
+        "On Nyepi, everyone is asked to stay inside their home compound for 24 hours, from dawn to the following dawn. Visitors, too, must comply with this custom and are asked not to stray from the hotel grounds."
+      ]
+    },
+    {
+      "class": "horizontal-split-image-text-overlay",
+      "headings": [
+        "There is no traffic on the roads, and in the evening, lights are not to be turned on. Ngurah Rai Airport is closed to all flights."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/ab04d7e2-150f-49b3-a1b7-b3063c827b1d/raw/mt2012003g-176jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-e4ed27ee=\"\"><div class=\"column\" data-v-e4ed27ee=\"\"><div class=\"full-height-image\" data-v-e4ed27ee=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div>[SVG]</div><div class=\"column\" data-v-e4ed27ee=\"\"><h2 class=\"title font-heading2-dh\" data-v-e4ed27ee=\"\">There is no traffic on the roads, and in the evening, lights are not to be turned on. Ngurah Rai Airport is closed to all flights. </h2><!----><div class=\"description font-body2-dh\" data-v-e4ed27ee=\"\"><p>On Nyepi, everyone is asked to stay inside their\nhome compound for 24 hours, from dawn to the following dawn. Visitors, too,\nmust comply with this custom and are asked not to stray from the hotel grounds.Many visitors remark on the extraordinary quiet and peacefulness of this day of silence.</p><p><br></p><p>The Balinese people treat Nyepi as an opportunity to meditate and fast. The importance of this holy day is to detach oneself from the world and seek inward peace.&nbsp;</p></div></div></div>",
+      "paragraphs": [
+        "On Nyepi, everyone is asked to stay inside their\nhome compound for 24 hours, from dawn to the following dawn. Visitors, too,\nmust comply with this custom and are asked not to stray from the hotel grounds.Many visitors remark on the extraordinary quiet and peacefulness of this day of silence.",
+        "",
+        "The Balinese people treat Nyepi as an opportunity to meditate and fast. The importance of this holy day is to detach oneself from the world and seek inward peace."
+      ]
+    },
+    {
+      "class": "next",
+      "headings": [],
+      "images": [
+        {
+          "alt": "Piodalan",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/ea991cf4-ab6c-49d9-9d9e-0520f0aaffad/raw/dsc01070jpg.jpeg"
+        }
+      ],
+      "markup": "<p class=\"subtitle font-subtitle1\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><span class=\"line\" data-v-dd9fc100=\"\">Next page</span></span></p><div class=\"image-wrapper\" data-v-dd9fc100=\"\">[PHOTO]</div><h1 class=\"title font-heading2\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><div class=\"line\" data-v-dd9fc100=\"\">Piodalan</div></span></h1><div class=\"scroll\" data-v-dd9fc100=\"\"><p class=\"keep-scroll font-button1\" data-v-dd9fc100=\"\">Keep Scroll</p><div class=\"progress\" data-v-dd9fc100=\"\"><div class=\"progress-fill\" data-v-dd9fc100=\"\"></div></div></div>",
+      "paragraphs": [
+        "Next page",
+        "Keep Scroll"
+      ]
+    }
+  ],
+  "title": "Nyepi"
+}

@@ -1,0 +1,19 @@
+{
+  "sample": "final",
+  "viewport": [
+    1279,
+    702
+  ],
+  "dpr": 1.0000000298023224,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+  "durationMs": 124360.80000001192,
+  "intervals": 20459,
+  "moving": 97,
+  "medianMs": 6.099999999991269,
+  "p95Ms": 6.19999999999709,
+  "maxMs": 36.30000000000291,
+  "over16_7": 4,
+  "estimatedMissedRafOpportunities": 62,
+  "longTasks": 0,
+  "longAnimationFrames": 0
+}

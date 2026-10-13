@@ -1,0 +1,6 @@
+.sg-menu-route-layer{position:fixed;inset:0;z-index:44;overflow:hidden;pointer-events:auto;}
+.sg-menu-route-background{position:absolute;inset:0;background:var(--sg-cream,#f1ecde);}
+.sg-menu-route-layer>.sg-site{position:absolute;top:0;left:0;width:100%;pointer-events:none;}
+.sg-menu-hero-frame{position:absolute;left:0;top:0;overflow:hidden;transform-origin:0 0;will-change:transform,clip-path;contain:paint;}
+.sg-menu-hero-frame img{position:absolute;left:0;top:0;display:block;max-width:none;transform-origin:0 0;will-change:transform,opacity;}
+.sg-menu-hero-decoration{position:absolute;pointer-events:none;}

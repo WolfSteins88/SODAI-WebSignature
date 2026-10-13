@@ -1,0 +1,1 @@
+ALTER TABLE "media" ADD COLUMN "namespace" text NOT NULL;

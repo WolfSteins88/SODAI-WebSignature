@@ -1,0 +1,2188 @@
+{
+  "metadata": {
+    "source": "Actual production browser rAF/PerformanceObserver; not native GPU trace or controlled60Hz",
+    "conditions": {
+      "name": "foreground",
+      "source": "Actual production browser rAF/PerformanceObserver; not native GPU trace or controlled60Hz",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+      "viewport": [
+        1279,
+        700
+      ],
+      "dpr": 1.0000000298023224,
+      "durationMs": 34236.699999928474,
+      "frames": 78,
+      "medianMs": 12.19999999999709,
+      "p95Ms": 1006,
+      "maxMs": 1006.0999999999913,
+      "over16_7": 36,
+      "movingFrames": 19,
+      "movingP95Ms": 1006,
+      "longTasks": 0,
+      "longAnimationFrames": 21,
+      "attributedScripts": 2
+    }
+  },
+  "traceEvents": [
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95158400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95164500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 212
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95170500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 248.6666717529297
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95182600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 322.6666564941406
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95194700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 390.6666564941406
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95206900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 448.6666564941406
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 95219000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 491.3333435058594
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 96225000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 97230900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98236800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98679200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98685200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 776.6666870117188
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98697400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 850.6666870117188
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98709500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 919.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 98721600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 978
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 99727500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 1066.6666259765625
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 100733500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 1066.6666259765625
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101739500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 1066.6666259765625
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101854600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 1066.6666259765625
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101860700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 840.6666870117188
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101866900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 803.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101872900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 766.6666870117188
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101884900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 696
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101897200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 634.6666870117188
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 101909200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 587.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 102915100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 103921100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 104927100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 105933000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 106939000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107048100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107054200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107060200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107066200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107072300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107078500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107084500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107090600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 107096600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 108102500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 109108500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110029600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110035700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110041800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110047900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110059900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110066000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110072100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110078100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110084200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110090300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110096300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110102300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110108400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110114400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110120500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110126600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110132700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110138700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 110144800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 111150700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 112156700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 113162700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 114168600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 115174600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 116180500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 117186500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 118192400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 119198400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 120204400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 121210300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 122216400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 123222300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 124228200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 125234100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 126240200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 127246100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 128252100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "Observed rAF",
+      "ph": "i",
+      "s": "t",
+      "ts": 129258100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 533.3333129882812
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 95174500,
+      "dur": 2500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-rooms%2F8ef1d619416ca0d3.webp&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 95174.5,
+        "duration": 2.5,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 95174.5,
+        "domainLookupStart": 95174.5,
+        "domainLookupEnd": 95174.5,
+        "connectStart": 95174.5,
+        "secureConnectionStart": 0,
+        "connectEnd": 95174.5,
+        "requestStart": 95175.69999992847,
+        "responseStart": 95175.89999997616,
+        "firstInterimResponseStart": 95175.89999997616,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 95177,
+        "transferSize": 0,
+        "encodedBodySize": 52054,
+        "decodedBodySize": 52054,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 80587899.99997616,
+      "dur": 1000699.9999284744,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 80587.89999997616,
+        "duration": 1000.6999999284744,
+        "navigationId": 3379,
+        "paintTime": 81588.59999990463,
+        "presentationTime": 95160,
+        "renderStart": 81583.89999997616,
+        "styleAndLayoutStart": 81588.5,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 81589000,
+      "dur": 1005299.9999523163,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 81589,
+        "duration": 1005.2999999523163,
+        "navigationId": 3379,
+        "paintTime": 82594.29999995232,
+        "presentationTime": 95160,
+        "renderStart": 82589.89999997616,
+        "styleAndLayoutStart": 82594.29999995232,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 82594799.99995232,
+      "dur": 1006500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 82594.79999995232,
+        "duration": 1006.5,
+        "navigationId": 3379,
+        "paintTime": 83601.29999995232,
+        "presentationTime": 95160,
+        "renderStart": 83595.89999997616,
+        "styleAndLayoutStart": 83601.19999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": [
+          {
+            "name": "script",
+            "entryType": "script",
+            "startTime": 83595.89999997616,
+            "duration": 5.199999928474426,
+            "navigationId": 3379,
+            "invoker": "FrameRequestCallback",
+            "invokerType": "user-callback",
+            "windowAttribution": "self",
+            "executionStart": 83595.89999997616,
+            "forcedStyleAndLayoutDuration": 3.2,
+            "pauseDuration": 0,
+            "sourceURL": "http://127.0.0.1:3112/_next/static/chunks/c15bf2b0-0b7ccb01d0221f08.js",
+            "sourceFunctionName": "t",
+            "sourceCharPosition": 14227
+          }
+        ]
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 83601699.99992847,
+      "dur": 1004600.0000238419,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 83601.69999992847,
+        "duration": 1004.6000000238419,
+        "navigationId": 3379,
+        "paintTime": 84606.29999995232,
+        "presentationTime": 95160,
+        "renderStart": 84601.69999992847,
+        "styleAndLayoutStart": 84606.19999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 94666000,
+      "dur": 497500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 94666,
+        "duration": 497.5,
+        "navigationId": 3379,
+        "paintTime": 95163.5,
+        "presentationTime": 95172,
+        "renderStart": 95158.59999990463,
+        "styleAndLayoutStart": 95163.5,
+        "firstUIEventTimestamp": 95063,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 95207399.99997616,
+      "dur": 5699.999928474426,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-rooms%2F4f9f73343b2638ac.webp&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 95207.39999997616,
+        "duration": 5.699999928474426,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 95207.39999997616,
+        "domainLookupStart": 95207.39999997616,
+        "domainLookupEnd": 95207.39999997616,
+        "connectStart": 95207.39999997616,
+        "secureConnectionStart": 0,
+        "connectEnd": 95207.39999997616,
+        "requestStart": 95211.39999997616,
+        "responseStart": 95211.5,
+        "firstInterimResponseStart": 95211.5,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 95213.09999990463,
+        "transferSize": 0,
+        "encodedBodySize": 74338,
+        "decodedBodySize": 74338,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 95228000,
+      "dur": 3599.9999046325684,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-rooms%2F37ad0a13d67c51f6.webp&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 95228,
+        "duration": 3.5999999046325684,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 95228,
+        "domainLookupStart": 95228,
+        "domainLookupEnd": 95228,
+        "connectStart": 95228,
+        "secureConnectionStart": 0,
+        "connectEnd": 95228,
+        "requestStart": 95229.79999995232,
+        "responseStart": 95230.19999992847,
+        "firstInterimResponseStart": 95230.19999992847,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 95231.59999990463,
+        "transferSize": 0,
+        "encodedBodySize": 53104,
+        "decodedBodySize": 53104,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 96232500,
+      "dur": 1002500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 96232.5,
+        "duration": 1002.5,
+        "navigationId": 3379,
+        "paintTime": 97235,
+        "presentationTime": 98240,
+        "renderStart": 97230.89999997616,
+        "styleAndLayoutStart": 97235,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 97235399.99997616,
+      "dur": 1005899.9999761581,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 97235.39999997616,
+        "duration": 1005.8999999761581,
+        "navigationId": 3379,
+        "paintTime": 98241.29999995232,
+        "presentationTime": 98680,
+        "renderStart": 98236.89999997616,
+        "styleAndLayoutStart": 98241.19999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 98691599.99990463,
+      "dur": 4700.000047683716,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-dining%2Fa0cdcf1d52648a3898dc.webp&w=1920&q=75",
+        "entryType": "resource",
+        "startTime": 98691.59999990463,
+        "duration": 4.700000047683716,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 98691.59999990463,
+        "domainLookupStart": 98691.59999990463,
+        "domainLookupEnd": 98691.59999990463,
+        "connectStart": 98691.59999990463,
+        "secureConnectionStart": 0,
+        "connectEnd": 98691.59999990463,
+        "requestStart": 98692.59999990463,
+        "responseStart": 98692.89999997616,
+        "firstInterimResponseStart": 98692.89999997616,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 98696.29999995232,
+        "transferSize": 0,
+        "encodedBodySize": 552960,
+        "decodedBodySize": 552960,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 95228000,
+      "dur": 1003899.9999761581,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 95228,
+        "duration": 1003.8999999761581,
+        "navigationId": 3379,
+        "paintTime": 96231.89999997616,
+        "presentationTime": 98680,
+        "renderStart": 96225.19999992847,
+        "styleAndLayoutStart": 96231.79999995232,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 98241699.99992847,
+      "dur": 442000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 98241.69999992847,
+        "duration": 442,
+        "navigationId": 3379,
+        "paintTime": 98683.69999992847,
+        "presentationTime": 98692,
+        "renderStart": 98679.39999997616,
+        "styleAndLayoutStart": 98683.59999990463,
+        "firstUIEventTimestamp": 98613.69999992847,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 98692299.99995232,
+      "dur": 20399.999976158142,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/dining?_rsc=M5pS5hM7KJuMe4QW",
+        "entryType": "resource",
+        "startTime": 98692.29999995232,
+        "duration": 20.399999976158142,
+        "navigationId": 3379,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 98692.29999995232,
+        "domainLookupStart": 98693.19999992847,
+        "domainLookupEnd": 98693.5,
+        "connectStart": 98693.5,
+        "secureConnectionStart": 0,
+        "connectEnd": 98693.89999997616,
+        "requestStart": 98693.89999997616,
+        "responseStart": 98701.29999995232,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 98701.29999995232,
+        "responseEnd": 98712.69999992847,
+        "transferSize": 1770,
+        "encodedBodySize": 1470,
+        "decodedBodySize": 3343,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 98712500,
+      "dur": 3199.9999284744263,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-rooms%2F50294ef5a663cd15.webp&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 98712.5,
+        "duration": 3.1999999284744263,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 98712.5,
+        "domainLookupStart": 98712.5,
+        "domainLookupEnd": 98712.5,
+        "connectStart": 98712.5,
+        "secureConnectionStart": 0,
+        "connectEnd": 98712.5,
+        "requestStart": 98714,
+        "responseStart": 98714.29999995232,
+        "firstInterimResponseStart": 98714.29999995232,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 98715.69999992847,
+        "transferSize": 0,
+        "encodedBodySize": 44964,
+        "decodedBodySize": 44964,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 98730199.99992847,
+      "dur": 2500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Freference-rooms%2F23cc47b4582b9331.webp&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 98730.19999992847,
+        "duration": 2.5,
+        "navigationId": 3379,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 98730.19999992847,
+        "domainLookupStart": 98730.19999992847,
+        "domainLookupEnd": 98730.19999992847,
+        "connectStart": 98730.19999992847,
+        "secureConnectionStart": 0,
+        "connectEnd": 98730.19999992847,
+        "requestStart": 98731.09999990463,
+        "responseStart": 98731.5,
+        "firstInterimResponseStart": 98731.5,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 98732.69999992847,
+        "transferSize": 0,
+        "encodedBodySize": 34766,
+        "decodedBodySize": 34766,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 98730699.99992847,
+      "dur": 9500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/rooms/village-bungalow?_rsc=xxYTlPalWMOVFMka",
+        "entryType": "resource",
+        "startTime": 98730.69999992847,
+        "duration": 9.5,
+        "navigationId": 3379,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 98730.69999992847,
+        "domainLookupStart": 98730.69999992847,
+        "domainLookupEnd": 98730.69999992847,
+        "connectStart": 98730.69999992847,
+        "secureConnectionStart": 0,
+        "connectEnd": 98730.69999992847,
+        "requestStart": 98731.69999992847,
+        "responseStart": 98734.89999997616,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 98734.89999997616,
+        "responseEnd": 98740.19999992847,
+        "transferSize": 1784,
+        "encodedBodySize": 1484,
+        "decodedBodySize": 3417,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "ph": "X",
+      "ts": 99734399.99997616,
+      "dur": 9399.999976158142,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/rooms/two-storey-bungalow?_rsc=F7YoKUpYp9KU82FP",
+        "entryType": "resource",
+        "startTime": 99734.39999997616,
+        "duration": 9.399999976158142,
+        "navigationId": 3379,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 99734.39999997616,
+        "domainLookupStart": 99734.39999997616,
+        "domainLookupEnd": 99734.39999997616,
+        "connectStart": 99734.39999997616,
+        "secureConnectionStart": 0,
+        "connectEnd": 99734.39999997616,
+        "requestStart": 99735.39999997616,
+        "responseStart": 99738.09999990463,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 99738.09999990463,
+        "responseEnd": 99743.79999995232,
+        "transferSize": 1746,
+        "encodedBodySize": 1446,
+        "decodedBodySize": 3213,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 99734000,
+      "dur": 1003899.9999761581,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 99734,
+        "duration": 1003.8999999761581,
+        "navigationId": 3379,
+        "paintTime": 100737.89999997616,
+        "presentationTime": 101740,
+        "renderStart": 100733.59999990463,
+        "styleAndLayoutStart": 100737.79999995232,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 100738199.99992847,
+      "dur": 1005399.9999761581,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 100738.19999992847,
+        "duration": 1005.3999999761581,
+        "navigationId": 3379,
+        "paintTime": 101743.59999990463,
+        "presentationTime": 101856,
+        "renderStart": 101739.59999990463,
+        "styleAndLayoutStart": 101743.59999990463,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 98730299.99995232,
+      "dur": 1003299.9999523163,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 98730.29999995232,
+        "duration": 1003.2999999523163,
+        "navigationId": 3379,
+        "paintTime": 99733.59999990463,
+        "presentationTime": 101864,
+        "renderStart": 99727.59999990463,
+        "styleAndLayoutStart": 99733.39999997616,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 101744000,
+      "dur": 115000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 101744,
+        "duration": 115,
+        "navigationId": 3379,
+        "paintTime": 101859,
+        "presentationTime": 101868,
+        "renderStart": 101854.79999995232,
+        "styleAndLayoutStart": 101859,
+        "firstUIEventTimestamp": 101792,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 102921699.99992847,
+      "dur": 1003700.0000476837,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 102921.69999992847,
+        "duration": 1003.7000000476837,
+        "navigationId": 3379,
+        "paintTime": 103925.39999997616,
+        "presentationTime": 104928,
+        "renderStart": 103921.19999992847,
+        "styleAndLayoutStart": 103925.39999997616,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 103925699.99992847,
+      "dur": 1005700.0000476837,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 103925.69999992847,
+        "duration": 1005.7000000476837,
+        "navigationId": 3379,
+        "paintTime": 104931.39999997616,
+        "presentationTime": 105936,
+        "renderStart": 104927.19999992847,
+        "styleAndLayoutStart": 104931.19999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 104931699.99992847,
+      "dur": 1005899.9999761581,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 104931.69999992847,
+        "duration": 1005.8999999761581,
+        "navigationId": 3379,
+        "paintTime": 105937.59999990463,
+        "presentationTime": 106940,
+        "renderStart": 105933.19999992847,
+        "styleAndLayoutStart": 105937.5,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerover",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.09999990463,
+        "processingEnd": 106939.5,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.5,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseover",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.5,
+        "processingEnd": 106939.59999990463,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 105939399.99997616,
+      "dur": 1112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseenter",
+        "entryType": "event",
+        "startTime": 105939.39999997616,
+        "duration": 1112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106939.59999990463,
+        "processingEnd": 106939.59999990463,
+        "cancelable": false
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 105938000,
+      "dur": 1006000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 105938,
+        "duration": 1006,
+        "navigationId": 3379,
+        "paintTime": 106944,
+        "presentationTime": 107052,
+        "renderStart": 106939.79999995232,
+        "styleAndLayoutStart": 106944,
+        "firstUIEventTimestamp": 105939.39999997616,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 101917799.99995232,
+      "dur": 1003500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 101917.79999995232,
+        "duration": 1003.5,
+        "navigationId": 3379,
+        "paintTime": 102921.29999995232,
+        "presentationTime": 107052,
+        "renderStart": 102915.29999995232,
+        "styleAndLayoutStart": 102921.19999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 106949899.99997616,
+      "dur": 112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerdown",
+        "entryType": "event",
+        "startTime": 106949.89999997616,
+        "duration": 112,
+        "navigationId": 3379,
+        "interactionId": 2780,
+        "processingStart": 106950.29999995232,
+        "processingEnd": 106950.29999995232,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 106949899.99997616,
+      "dur": 112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mousedown",
+        "entryType": "event",
+        "startTime": 106949.89999997616,
+        "duration": 112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 106950.29999995232,
+        "processingEnd": 106950.29999995232,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 106951099.99990463,
+      "dur": 112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "pointerup",
+        "entryType": "event",
+        "startTime": 106951.09999990463,
+        "duration": 112,
+        "navigationId": 3379,
+        "interactionId": 2780,
+        "processingStart": 107001.79999995232,
+        "processingEnd": 107001.89999997616,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 106951099.99990463,
+      "dur": 112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "mouseup",
+        "entryType": "event",
+        "startTime": 106951.09999990463,
+        "duration": 112,
+        "navigationId": 3379,
+        "interactionId": 0,
+        "processingStart": 107001.89999997616,
+        "processingEnd": 107001.89999997616,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "event",
+      "ph": "X",
+      "ts": 106951099.99990463,
+      "dur": 112000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "click",
+        "entryType": "event",
+        "startTime": 106951.09999990463,
+        "duration": 112,
+        "navigationId": 3379,
+        "interactionId": 2780,
+        "processingStart": 107001.89999997616,
+        "processingEnd": 107009.39999997616,
+        "cancelable": true
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 106944399.99997616,
+      "dur": 109199.99992847443,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 106944.39999997616,
+        "duration": 109.19999992847443,
+        "navigationId": 3379,
+        "paintTime": 107053.59999990463,
+        "presentationTime": 107064,
+        "renderStart": 107048.19999992847,
+        "styleAndLayoutStart": 107053.59999990463,
+        "firstUIEventTimestamp": 106949.89999997616,
+        "blockingDuration": 0,
+        "scripts": [
+          {
+            "name": "script",
+            "entryType": "script",
+            "startTime": 107002,
+            "duration": 7.399999976158142,
+            "navigationId": 3379,
+            "invoker": "#document.onclick",
+            "invokerType": "event-listener",
+            "windowAttribution": "self",
+            "executionStart": 107002,
+            "forcedStyleAndLayoutDuration": 4.2,
+            "pauseDuration": 0,
+            "sourceURL": "http://127.0.0.1:3112/_next/static/chunks/4bd1b696-92152b0f5947070d.js",
+            "sourceFunctionName": "fR",
+            "sourceCharPosition": 191392
+          }
+        ]
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 107107299.99995232,
+      "dur": 1000100.0000238419,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 107107.29999995232,
+        "duration": 1000.1000000238419,
+        "navigationId": 3379,
+        "paintTime": 108107.39999997616,
+        "presentationTime": 110032,
+        "renderStart": 108102.59999990463,
+        "styleAndLayoutStart": 108107.29999995232,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    },
+    {
+      "name": "long-animation-frame",
+      "ph": "X",
+      "ts": 108108000,
+      "dur": 1005799.9999523163,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "long-animation-frame",
+        "entryType": "long-animation-frame",
+        "startTime": 108108,
+        "duration": 1005.7999999523163,
+        "navigationId": 3379,
+        "paintTime": 109113.79999995232,
+        "presentationTime": 110036,
+        "renderStart": 109108.59999990463,
+        "styleAndLayoutStart": 109113.69999992847,
+        "firstUIEventTimestamp": 0,
+        "blockingDuration": 0,
+        "scripts": []
+      }
+    }
+  ]
+}

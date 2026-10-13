@@ -1,0 +1,14 @@
+.sg-home-intro{display:none;position:fixed;inset:0;z-index:10000;background:#f1ecde;place-items:center;touch-action:none;}
+html[data-signature-intro="pending"] .sg-home-intro{display:grid;animation:sg-intro-failsafe 0s 10s forwards;}
+html[data-signature-intro="pending"],html[data-signature-intro="pending"] body{overflow:hidden;}
+html[data-signature-intro="pending"] .sg-site{pointer-events:none;}
+.sg-home-intro-brand{width:112px;max-width:32vw;text-align:center;color:#a62a23;font:22px/1.2 "TS Caslon",serif;opacity:.15;}
+.sg-home-intro-brand img{display:block;object-fit:contain;}
+.sg-intro-split{position:relative;}
+.sg-intro-wordmark{width:100%;height:100%;}
+.sg-intro-split .sg-intro-emblem{position:absolute;transform-origin:center;}
+.sg-intro-fallback .sg-intro-emblem{width:72px;height:72px;margin:10px auto 0;}
+.sg-intro-fallback img{filter:brightness(0) saturate(100%) invert(21%) sepia(53%) saturate(2125%) hue-rotate(338deg) brightness(88%) contrast(86%);}
+.sg-intro-fallback [data-combined-brand]{width:100%;height:100px;}
+@keyframes sg-intro-failsafe{to{visibility:hidden;pointer-events:none;}}
+@media(prefers-reduced-motion:reduce){html[data-signature-intro="pending"] .sg-home-intro{display:none;}}

@@ -1,0 +1,61 @@
+{
+  "contacts": [
+    {
+      "html": "<div class=\"contact-info-item phone\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">PHONE</div><a class=\"contact-info-item-content\" href=\"https://wa.me/62361288441\" data-v-9c387cbb=\"\">+62 361 288441</a></div>",
+      "rect": {
+        "h": 52.41666793823242,
+        "w": 138.75,
+        "x": 538.96875,
+        "y": 1131.916748046875
+      }
+    },
+    {
+      "html": "<div class=\"contact-info-item mail\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">MAIL</div><a class=\"contact-info-item-content\" href=\"mailto:info@tandjungsarihotel.com\" data-v-9c387cbb=\"\">info@tandjungsarihotel.com</a></div>",
+      "rect": {
+        "h": 52.41666793823242,
+        "w": 242.23959350585935,
+        "x": 856.2916870117188,
+        "y": 1131.916748046875
+      }
+    },
+    {
+      "html": "<div class=\"contact-info-item location\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">LOCATION</div><div class=\"contact-info-item-content\" data-v-9c387cbb=\"\">Jalan Danau Tamblingan No. 41 Sanur, Denpasar - 80228 Bali, Indonesia</div></div>",
+      "rect": {
+        "h": 102.16667175292967,
+        "w": 246.9791717529297,
+        "x": 538.96875,
+        "y": 1233.1875
+      }
+    }
+  ],
+  "sections": [
+    {
+      "bg": "rgb(241, 236, 222)",
+      "cls": "hero loaded",
+      "h": 700,
+      "html": "<section class=\"hero loaded\" sectionid=\"hero\" id=\"30cbd790-ec38-4366-814d-adaddc5882eb\" data-v-75419b3c=\"\"><div class=\"container\" data-v-75419b3c=\"\"><div class=\"overlay\" data-v-75419b3c=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 0.7;\"></div><div class=\"overlay-solid\" data-v-75419b3c=\"\" style=\"opacity: 1;\"></div><p class=\"subtitle font-subtitle1\" data-v-75419b3c=\"\" style=\"opacity: 1;\"><span data-v-75419b3c=\"\"><!--[--><span data-v-75419b3c=\"\" aria-label=\"\"></span><!--]--></span></p><div class=\"image-wrapper\" data-v-75419b3c=\"\" style=\"opacity: 1; filter: grayscale(0%);\">[photo]</div><h1 class=\"title font-heading2\" data-v-75419b3c=\"\" style=\"opacity: 1;\"><span data-v-75419b3c=\"\"><!--[--><span data-v-75419b3c=\"\" aria-label=\"Getting Here\"><div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\"><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">G</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">e</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">t</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">t</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">i</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">n</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">g</div></div> <div class=\"word\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\"><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">H</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">e</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">r</div><div class=\"char\" aria-hidden=\"true\" style=\"position: relative; display: inline-block;\">e</div></div></span><!--]--></span></h1></div></section>",
+      "y": 0
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "cls": "contact-map",
+      "h": 1778.5625,
+      "html": "<section class=\"contact-map\" sectionid=\"ContactMap\" id=\"64416f22-991d-4140-b486-7f9710a52adf\" data-v-9c387cbb=\"\"><div class=\"container grid\" data-v-9c387cbb=\"\"><h2 class=\"title font-heading1\" data-v-9c387cbb=\"\">Tandjung Sari is located in the center of Sanur, offering convenient access to the airport and other destinations in Bali.</h2><div class=\"contact-info-list\" data-v-9c387cbb=\"\"><div class=\"contact-info-item phone\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">PHONE</div><a class=\"contact-info-item-content\" href=\"https://wa.me/62361288441\" data-v-9c387cbb=\"\">+62 361 288441</a></div><div class=\"contact-info-item mail\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">MAIL</div><a class=\"contact-info-item-content\" href=\"mailto:info@tandjungsarihotel.com\" data-v-9c387cbb=\"\">info@tandjungsarihotel.com</a></div><div class=\"contact-info-item location\" data-v-9c387cbb=\"\"><div class=\"contact-info-item-title font-subtitle1\" data-v-9c387cbb=\"\">LOCATION</div><div class=\"contact-info-item-content\" data-v-9c387cbb=\"\">Jalan Danau Tamblingan No. 41 Sanur, Denpasar - 80228 Bali, Indonesia</div></div></div>[photo]<a class=\"map-link\" href=\"https://maps.app.goo.gl/5KhdAD7hAERJsFAX9\" target=\"_blank\" rel=\"noopener noreferrer\" data-v-9c387cbb=\"\">[photo]</a><h3 class=\"subtitle font-heading2\" data-v-9c387cbb=\"\"></h3><ul class=\"landmark-proximity-list\" data-v-9c387cbb=\"\"><!--[--><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Bali International Hospital</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">2.1 km</div></li><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Sanur Harbour</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">5.6 km</div></li><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Art Center</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">6.3 km</div></li><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Benoa Harbour</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">11 km</div></li><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Bali Ngurah Rai Airport</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">16 km</div></li><li class=\"landmark\" data-v-9c387cbb=\"\"><div class=\"landmark-name\" data-v-9c387cbb=\"\">Tanjung Benoa</div><div class=\"landmark-distance\" data-v-9c387cbb=\"\">24 km</div></li><!--]--></ul><ul class=\"proximity-note-list\" data-v-9c387cbb=\"\"><!--[--><li class=\"note font-body1\" data-v-9c387cbb=\"\"><p>53 restaurants are within a 0.5km radius</p></li><li class=\"note font-body1\" data-v-9c387cbb=\"\"><p>To Ubud 1h 20 minute (23 km) via Jl. By Pass Ngurah Rai<br></p></li><li class=\"note font-body1\" data-v-9c387cbb=\"\"><p>To Seminyak 1h (16 km) via Jl. By Pass Ngurah Rai dan Jl. Sunset Road<br></p></li><li class=\"note font-body1\" data-v-9c387cbb=\"\"><p>To Airport 37 minute (16 km) via Jl. By Pass Ngurah Rai<br></p></li><li class=\"note font-body1\" data-v-9c387cbb=\"\"><p>To Canggu 1h 19 minute (20 km) via Jl. Raya Canggu&nbsp;</p></li><!--]--></ul></div></section>",
+      "y": 700
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "cls": "newsletter",
+      "h": 726.7291870117188,
+      "html": "<section class=\"newsletter\" sectionid=\"newsletter\" id=\"aa747321-f98e-403b-bec7-6fd8b5e9b869\" data-v-fdfdb0f4=\"\"><div class=\"container grid\" data-v-fdfdb0f4=\"\">[photo]<div class=\"text-container\" data-v-fdfdb0f4=\"\"><div class=\"subtitle font-subtitle1\" data-v-fdfdb0f4=\"\">Join Us</div><h2 class=\"title font-heading1\" data-v-fdfdb0f4=\"\">Sign up to hear the latest from Tandjung Sari</h2><form data-v-fdfdb0f4=\"\"><label class=\"label-email font-body2\" for=\"email\" data-v-fdfdb0f4=\"\">Email</label><input required=\"\" class=\"font-body2\" type=\"email\" name=\"email\" id=\"email\" data-v-fdfdb0f4=\"\"><button type=\"submit\" class=\"btn-signup font-subtitle1\" data-disabled=\"false\" data-v-fdfdb0f4=\"\">SIGN UP</button><div class=\"message font-body2\" data-v-fdfdb0f4=\"\"></div></form></div></div></section>",
+      "y": 2478.5625
+    },
+    {
+      "bg": "rgb(147, 131, 108)",
+      "cls": "next",
+      "h": 700,
+      "html": "<section class=\"next\" sectionid=\"next\" id=\"17c9812d-7e56-4311-bcba-38c55d4b748e\" data-v-dd9fc100=\"\" style=\"translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1279.33px; width: 1279.33px; max-height: 700px; height: 700px; padding: 0px; transform: translate(0px, 0px);\"><p class=\"subtitle font-subtitle1\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><span class=\"line\" data-v-dd9fc100=\"\">Next page</span></span></p><div class=\"image-wrapper\" data-v-dd9fc100=\"\">[photo]</div><h1 class=\"title font-heading2\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><div class=\"line\" data-v-dd9fc100=\"\">Gallery</div></span></h1><div class=\"scroll\" data-v-dd9fc100=\"\"><p class=\"keep-scroll font-button1\" data-v-dd9fc100=\"\">Keep Scroll</p><div class=\"progress\" data-v-dd9fc100=\"\"><div class=\"progress-fill\" data-v-dd9fc100=\"\"></div></div></div></section>",
+      "y": 3205.291748046875
+    }
+  ]
+}

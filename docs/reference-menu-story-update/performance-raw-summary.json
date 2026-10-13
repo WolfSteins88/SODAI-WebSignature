@@ -1,0 +1,23 @@
+{
+  "conditions": {
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "viewport": [
+      1279,
+      700
+    ],
+    "dpr": 1.0000000298023224,
+    "production": true,
+    "physicalRefreshRate": "not verified",
+    "visibility": "background"
+  },
+  "durationMs": 41482.199999928474,
+  "intervals": 159,
+  "medianMs": 8,
+  "p95Ms": 1006,
+  "maxMs": 1007.8000000000029,
+  "intervalsAbove16_7": 44,
+  "intervalsAbove500": 40,
+  "longTasks": 0,
+  "longAnimationFrames": 44,
+  "limitation": "Near-one-second callback gaps persisted with visibility enabled. This is not a controlled foreground 60 Hz test and cannot establish compositor dropped frames or 60 fps acceptance."
+}

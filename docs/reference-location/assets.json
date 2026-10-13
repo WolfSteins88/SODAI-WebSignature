@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "id": "7f78d66f19cbad10",
+      "kind": "image",
+      "name": "dsc00807-1jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4/7f78d66f19cbad10.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/contact-us/cb49a4c5-7de3-4298-b8c8-e663e120fddc/raw/dsc00807-1jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2ff0014d03d7f4a7",
+      "kind": "image",
+      "name": "mt2012003g-861-1jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4/2ff0014d03d7f4a7.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/contact-us/9c136720-97cf-4f9e-ab90-a7ef7913a9e8/raw/mt2012003g-861-1jpg.jpeg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "b48259c1ac530ff8",
+      "kind": "image",
+      "name": "frame-38619png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4/b48259c1ac530ff8.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/contact-us/d00bd540-8d31-4dea-9c0f-8bb6652089aa/raw/frame-38619png.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "52b0da91d4b79d63",
+      "kind": "image",
+      "name": "image-456png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4/52b0da91d4b79d63.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/contact-us/cd7981ef-17c7-412a-a95c-4538974fdde4/raw/image-456png.png"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/cb2a0e69-ecf5-42e0-93a1-0b24471229e4/manifest.json",
+  "summary": {
+    "downloadedCount": 4,
+    "elapsedMs": 344.1496000001207,
+    "failedCount": 0,
+    "requestedCount": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "seconds": 101.32889999997616,
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+  "viewport": [
+    1279,
+    700
+  ],
+  "dpr": 1.0000000298023224,
+  "intervals": 16680,
+  "movingCallbacks": 14,
+  "median": 6.099999999991269,
+  "p95": 6.19999999999709,
+  "maximum": 30.200000000000728,
+  "over16_7": 4,
+  "longTasks": 0,
+  "longAnimationFrames": 0
+}

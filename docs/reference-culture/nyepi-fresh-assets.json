@@ -1,0 +1,189 @@
+{
+  "assets": [
+    {
+      "contentType": "image/webp",
+      "id": "7142585ea25965cf",
+      "kind": "image",
+      "name": "lobby-editwebp.webp",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/7142585ea25965cf.webp",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/our-story/0172d8b4-b73d-4b7a-bac1-7a848c8e04a6/raw/lobby-editwebp.webp"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2afbeca185c52044",
+      "kind": "image",
+      "name": "tandjung-mail-iconpng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/2afbeca185c52044.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/0df0a534-fb78-4844-a580-4dc045d9b055/raw/tandjung-mail-iconpng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "064fcd2adb4655c8",
+      "kind": "image",
+      "name": "instagram-svgrepo-com-1-1png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/064fcd2adb4655c8.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/17567cf2-c442-437b-8fde-2eb260c941ef/raw/instagram-svgrepo-com-1-1png.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4a3d1362c6219581",
+      "kind": "image",
+      "name": "facebook-svgrepo-compng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/4a3d1362c6219581.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/4fc718bb-14e6-4bc1-833c-31ba7a6b3322/raw/facebook-svgrepo-compng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e1b532b4dc19d787",
+      "kind": "image",
+      "name": "youtube-svgrepo-compng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/e1b532b4dc19d787.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/61d0af00-9357-4ed9-85ff-85a14821ba5b/raw/youtube-svgrepo-compng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "104f0dbe1b0b58bd",
+      "kind": "image",
+      "name": "trip-advisor-svgrepo-com-1png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/104f0dbe1b0b58bd.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/9c0e734c-ab0c-4259-8e80-0516af9bc7c8/raw/trip-advisor-svgrepo-com-1png.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "90ff749fbcbbd0df",
+      "kind": "image",
+      "name": "mt2012003g-803jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/90ff749fbcbbd0df.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/ba3fc07e-01c0-42ef-9869-39a4dd02603c/raw/mt2012003g-803jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f2dbeec750059c34",
+      "kind": "image",
+      "name": "img0985-1jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/f2dbeec750059c34.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/6f1d0c72-d87a-4e0f-a4be-9e20acf34eb5/raw/img0985-1jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a859db4cc69dde54",
+      "kind": "image",
+      "name": "mt2012003g-176jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/a859db4cc69dde54.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/nyepi/ab04d7e2-150f-49b3-a1b7-b3063c827b1d/raw/mt2012003g-176jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "cf5a2c6bca0d3d5f",
+      "kind": "image",
+      "name": "dsc01070jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/cf5a2c6bca0d3d5f.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/ea991cf4-ab6c-49d9-9d9e-0520f0aaffad/raw/dsc01070jpg.jpeg"
+    },
+    {
+      "contentType": "image/vnd.microsoft.icon",
+      "id": "3fb88a917b1ea4aa",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/3fb88a917b1ea4aa.ico",
+      "url": "https://www.tandjungsarihotel.com/favicon.ico"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a34971f403bba88e",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/a34971f403bba88e.svg",
+      "url": "inline-svg:a34971f403bba88e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e92257a1dabd09c8",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/e92257a1dabd09c8.svg",
+      "url": "inline-svg:e92257a1dabd09c8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8464242d4c10ad82",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/8464242d4c10ad82.svg",
+      "url": "inline-svg:8464242d4c10ad82"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "57bc08b5b917ccb1",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/57bc08b5b917ccb1.svg",
+      "url": "inline-svg:57bc08b5b917ccb1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b5a0602fd6b8572a",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/b5a0602fd6b8572a.svg",
+      "url": "inline-svg:b5a0602fd6b8572a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fac2d40502718b8d",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/fac2d40502718b8d.svg",
+      "url": "inline-svg:fac2d40502718b8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c8b02a8d6bf5672e",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/c8b02a8d6bf5672e.svg",
+      "url": "inline-svg:c8b02a8d6bf5672e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a6be432069f87dfa",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/a6be432069f87dfa.svg",
+      "url": "inline-svg:a6be432069f87dfa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a808ced13419f4ba",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/a808ced13419f4ba.svg",
+      "url": "inline-svg:a808ced13419f4ba"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a441a11e21dde2b7",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/a441a11e21dde2b7.svg",
+      "url": "inline-svg:a441a11e21dde2b7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "83c2a5332afc839f",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/83c2a5332afc839f.svg",
+      "url": "inline-svg:83c2a5332afc839f"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/44c6e147-0b38-4f8d-86ab-93bcafb6eb7d/manifest.json",
+  "summary": {
+    "downloadedCount": 22,
+    "elapsedMs": 506.11999999999534,
+    "failedCount": 0,
+    "requestedCount": 22
+  }
+}

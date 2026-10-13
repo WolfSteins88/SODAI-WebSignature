@@ -1,0 +1,4 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+const assets={hero:'photo-1571896349842-33c89424de2d',room:'photo-1611892440504-42a792e24d32',pool:'photo-1576013551627-0cc20b96c2a7',living:'photo-1600210492486-724fe5c67fb0',dining:'photo-1414235077428-338989a2e8c0',nature:'photo-1537996194471-e657df975ab4',beach:'photo-1507525428034-b723cf961d3e',suite:'photo-1566665797739-1674de7a421a'};
+await mkdir('public/images',{recursive:true});
+for(const [name,id] of Object.entries(assets)){const url=`https://images.unsplash.com/${id}?auto=format&fit=crop&w=1920&q=82`;const response=await fetch(url);if(!response.ok)throw new Error(`${name}: ${response.status}`);await writeFile(`public/images/${name}.jpg`,new Uint8Array(await response.arrayBuffer()));console.log(`${name}: saved illustrative Unsplash photograph`);}

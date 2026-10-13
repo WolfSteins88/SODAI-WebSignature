@@ -1,0 +1,12 @@
+/* Signature only: SSR entrance state prevents an initial color flash. */
+.sg-site .std-photo[data-signature-main-photo] { filter:grayscale(var(--sg-photo-gray,1)) !important; }
+/* Remove title rules without changing their allocated geometry. */
+.sg-site .sg-ref-rule { visibility:hidden; }
+.sg-site .sg-dining-offers>h2 { border-top-color:transparent; }
+.sg-site .sg-story-track,.sg-site .sg-room-photograph-track { scroll-snap-type:none; }
+@media(prefers-reduced-motion:reduce) {
+ .sg-site .std-photo[data-signature-main-photo] { filter:none !important; }
+}
+.sg-site .sg-next-photo { filter:grayscale(var(--sg-photo-gray,1)) !important; }
+.sg-site .sg-ref-ornament::before,.sg-site .sg-ref-ornament::after { visibility:hidden; }
+@media(prefers-reduced-motion:reduce) { .sg-site .sg-next-photo { filter:none !important; } }

@@ -1,0 +1,10148 @@
+{
+  "traceEvents": [
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52918900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52924900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52931000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52937100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52943100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52949200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52955300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52961300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52967300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52973400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52979500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52985500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52991600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 52997600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53003700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53009800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53015800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53021900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53027900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53034000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53040100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53046200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53052100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53058200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53064300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53070400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53076400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53082500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53088500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53094600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53100700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53106700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53112800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53118900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53124900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53130900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53137100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53143100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53149100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53155200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53161200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53167300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53173400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53179400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53185600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53191600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53197700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 12612.6669921875
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53203800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 15312
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53215800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 15312
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53222000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53228000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53240000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53246200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53252300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53258300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53264400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53270400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53276400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53282600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53288600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53294600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53306800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53312800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53318800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53325000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53330900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53337100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53343200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53349200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53355200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53361200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53367300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53373400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53379400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53385500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53391500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53397600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53403700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53409800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53415800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53421800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53427900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53434000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53440100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53446000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53452200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53458200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53464300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53470400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53476400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53482400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53488500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53494600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53500600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53506700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53512800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53518900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53524900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53530900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53537000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53543100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53549200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53555300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53561300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53567300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53573400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53579400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53585500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53591600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53597600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53603600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53609700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53615800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53621800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53627900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53634000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53640100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53646100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53652100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53658200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53664300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53670300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53676400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53682400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53688500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53694500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53700600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53706700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53712700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53718800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53724800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53730900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53736900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53743000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53749100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53755100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53761300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53767300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53773300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53779400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53785400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53791500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53797600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53803700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53809700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53815800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53821800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53827900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53833900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53840000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53846100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53852100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53858200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53864300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53870300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53876400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53882400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53888500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53894500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53900600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53906600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53912700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53918800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53924900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53930900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53936900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53943000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53949000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53955100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53961200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53967200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53973300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53979400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53985500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53991500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 53997500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54003600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54009700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54015800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54021800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54027800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54033900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54040000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54046000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54052100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54058100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54064300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54070300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54076400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54082400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54088500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54094500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54100600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54106600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54112800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54118800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54124800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54130900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54136900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54143000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54149100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54155100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54161200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54167300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54173300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54179300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54185400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54191500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54197500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54203600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54209600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54215700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54221800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54227800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54233900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54240000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54246000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54252100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54258100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54264200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54270300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54276300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54282400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54288400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54294500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54300600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54306700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54312700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54318800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54324800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54330800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54336900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54343000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54349000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54355100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54361200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54367200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54373300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54379400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54385400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54391400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54397600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54403600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54409700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54415700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54421700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54427800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54433900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54440000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54446000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54452100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54458200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54464200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54470200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54476300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54482300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54488500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54494500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54500600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54506600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54512700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54518800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54524800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54530800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54537000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54543000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54549100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54555100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54561100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54567200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54573200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54579300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54585400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54591400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54597500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54603600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54609600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54615700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54621700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54627800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54633900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54639900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54646000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54652000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54658100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54664200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54670200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54676300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54682300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54688400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54694500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54700500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54706600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54712600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54718700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54724800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54730900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54736900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54742900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54749000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54755100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54761100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54767200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54773300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54779300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54785400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54791400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54797500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54803500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54809600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54815600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54821700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54827700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54833900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54839900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54845900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54852000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54858000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54864100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54870200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54876300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54882300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54888400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54894500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54900500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54906600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54912600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54918600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54924800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54930800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54936800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54943000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54949000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54955100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54961100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54967200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54973200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54979300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54985300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54991400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 54997500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55003500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55009500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55015600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55021700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55027700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55033900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55039900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55045900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55052000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55058100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55064100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55070200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55076300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55082300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55088400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55094400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55100400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55106500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55112700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55118700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55124700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55130800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55136800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55142900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55149000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55155000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55161100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55167200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55173200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55179200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55185300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55191400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55197400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55203400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55209600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55215600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55221700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55227800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55233800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55239900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55245900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55252000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55258000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55264100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55270200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55276300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55282300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55288300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55294400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55300400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55306500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55312600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55318600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55324700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55330800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55336800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55342900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55348900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55355000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55361000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55367100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55373200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55379200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55385300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55391400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55397500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55403500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55409600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55415600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55421600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55427700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55433800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55439800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55445900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55452000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55458000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55464000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55470200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55476200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55482200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55488400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55494400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55500400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55506600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55512500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55518700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55524700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55530700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55536800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55542800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55548900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55555000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55561000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55567100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55573200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55579200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55585300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55591300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55597400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55603500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55609500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55615600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55621600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55627700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55633800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55639800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55645800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55652000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55657900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55664100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55670200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55676200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55682300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55688400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55694400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55700400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55706500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55712500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55718700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55724700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55730700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55736800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55742800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55748900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55755000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55761100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55767100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55773300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55779200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55785200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55791300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55797400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55803500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55809500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55815600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55821600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55827700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55833800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55839800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55845800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55851900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55858000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55864000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55870100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55876200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55882200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55888300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55894300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55900400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55906500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55912600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55918600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55924700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55930700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55936800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55942900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55948900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55954900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55961000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55967100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55973100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55979200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55985200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55991300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 55997300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56003500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56009500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56015600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56021600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56027700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56033800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56039800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56045900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56051900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56057900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56064100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56070100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56076100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56082200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56088200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56094400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56100400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56106500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56112500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56118500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56124600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56130700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56136800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56142800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56148800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56154900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56161000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56167100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56173100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56179200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56185300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56191300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56197300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56203400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56209400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56215600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56221600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56227700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56233700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56239800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56245800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56251900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56257900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56264000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56270100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56276200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56282200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56288300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56294300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56300300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56306400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56312500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56318500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56324600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56330700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56336700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56342800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56348900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56354900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56361000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56367000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56373100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56379200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56385200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56391200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56397300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56403400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56409400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56415500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56421600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56427700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56433700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56439800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56445800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56451900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56458000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56464000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56470000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56476100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56482100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56488200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56494300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56500400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56506400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56512500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56518500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56524600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56530600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56536700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56542800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56548800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56554900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56560900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56567000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56573000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56579100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56585200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56591300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56597300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56603400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56609400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56615500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56621600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56627600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56633600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56639700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56645700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56651900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56657900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56664000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56670000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56676100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56682200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56688200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56694200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56700300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56706400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56712400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56718500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56724600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56730600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56736700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56742700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56748800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56754800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56760900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56767000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56773000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56779100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56785100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56791200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56797300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56803400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56809400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56815500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56821500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56827600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56833700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56839700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56845700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56851800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56857900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56864000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56870000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56876000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56882100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56888200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56894300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56900300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56906400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56912400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56918500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56924600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56930600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56936600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56942700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56948800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56954800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56960900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56966900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56973000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56979100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56985200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56991200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 56997300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57003300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57009400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57015400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57021400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57027500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57033600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57039600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57045700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57051800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57057800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57063900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57070000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57076000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57082100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57088100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57094300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57100200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57106300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57112400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57118500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57124500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57130600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57136700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57142700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57148800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57154800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57160900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57166900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57173000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57179100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57185200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57191100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57197200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57203300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57209400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57215500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57221500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57227500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57233600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57239700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57245800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57251800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57257800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57263900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57270000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57276000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57282100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57288200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57294200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57300300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57306300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57312400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57318400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57324500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57330600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57336700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57342700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57348700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57354800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57360800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57366900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57373000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57379100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57385100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57391200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57397200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57403300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57409400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57415400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57421400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57427600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57433600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57439600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57445700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57451700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57457800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57463900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57470000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57476000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57482100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57488100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57494200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57500300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57506300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57512400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57518400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57524500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57530600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57536600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57542700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57548700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57554700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57560900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57566900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57573000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57579000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57585100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57591200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57597200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57603300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57609400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57615400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57621400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57627500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57633500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57639600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57645700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57651700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57657800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57663900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57670000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57676000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57682000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57688100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57694200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57700200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57706300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57712400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57718400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57724400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57730500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57736600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57742600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57748700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57754800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57760800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57766900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57773000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57779100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57785000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57791200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57797200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57803300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57809400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57815400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57821400,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57827500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57833500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57839600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57845600,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57851700,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57857800,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57863900,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57870000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57876000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57882100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57888100,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57894200,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57900300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "Observed rAF callback",
+      "cat": "browser-observer",
+      "ph": "i",
+      "s": "t",
+      "ts": 57906300,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "scrollY": 0
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53218699.99998808,
+      "dur": 18600.000023841858,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/admin/login?_rsc=FrkUJp_PrX_YHKEt",
+        "entryType": "resource",
+        "startTime": 53218.69999998808,
+        "duration": 18.600000023841858,
+        "navigationId": 8704,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53218.69999998808,
+        "domainLookupStart": 53220.5,
+        "domainLookupEnd": 53220.5,
+        "connectStart": 53220.5,
+        "secureConnectionStart": 0,
+        "connectEnd": 53221.19999998808,
+        "requestStart": 53221.40000003576,
+        "responseStart": 53228.60000002384,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 53228.60000002384,
+        "responseEnd": 53237.30000001192,
+        "transferSize": 471,
+        "encodedBodySize": 171,
+        "decodedBodySize": 319,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53218800.00001192,
+      "dur": 27100.000023841858,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/?_rsc=P0-z8cGmkzh_Kt28",
+        "entryType": "resource",
+        "startTime": 53218.80000001192,
+        "duration": 27.100000023841858,
+        "navigationId": 8704,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53218.80000001192,
+        "domainLookupStart": 53221.69999998808,
+        "domainLookupEnd": 53221.80000001192,
+        "connectStart": 53221.80000001192,
+        "secureConnectionStart": 0,
+        "connectEnd": 53222.5,
+        "requestStart": 53222.60000002384,
+        "responseStart": 53235,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 53235,
+        "responseEnd": 53245.90000003576,
+        "transferSize": 1747,
+        "encodedBodySize": 1447,
+        "decodedBodySize": 3273,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53212100.00002384,
+      "dur": 35000,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/rooms?_rsc=9IOnE8fxvCL-Crhu",
+        "entryType": "resource",
+        "startTime": 53212.10000002384,
+        "duration": 35,
+        "navigationId": 8704,
+        "initiatorType": "fetch",
+        "deliveryType": "",
+        "nextHopProtocol": "http/1.1",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "text/x-component",
+        "contentEncoding": "gzip",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53212.10000002384,
+        "domainLookupStart": 53213.80000001192,
+        "domainLookupEnd": 53213.80000001192,
+        "connectStart": 53213.80000001192,
+        "secureConnectionStart": 0,
+        "connectEnd": 53214.69999998808,
+        "requestStart": 53214.69999998808,
+        "responseStart": 53222.40000003576,
+        "firstInterimResponseStart": 0,
+        "finalResponseHeadersStart": 53222.40000003576,
+        "responseEnd": 53247.10000002384,
+        "transferSize": 10656,
+        "encodedBodySize": 10356,
+        "decodedBodySize": 31124,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53538800.00001192,
+      "dur": 6199.999988079071,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Fimages%2Fdining.jpg&w=1920&q=75",
+        "entryType": "resource",
+        "startTime": 53538.80000001192,
+        "duration": 6.199999988079071,
+        "navigationId": 8704,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53538.80000001192,
+        "domainLookupStart": 53538.80000001192,
+        "domainLookupEnd": 53538.80000001192,
+        "connectStart": 53538.80000001192,
+        "secureConnectionStart": 0,
+        "connectEnd": 53538.80000001192,
+        "requestStart": 53539.69999998808,
+        "responseStart": 53540,
+        "firstInterimResponseStart": 53540,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 53545,
+        "transferSize": 0,
+        "encodedBodySize": 131888,
+        "decodedBodySize": 131888,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53543100.00002384,
+      "dur": 5800.000011920929,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Fimages%2Froom.jpg&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 53543.10000002384,
+        "duration": 5.800000011920929,
+        "navigationId": 8704,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53543.10000002384,
+        "domainLookupStart": 53543.10000002384,
+        "domainLookupEnd": 53543.10000002384,
+        "connectStart": 53543.10000002384,
+        "secureConnectionStart": 0,
+        "connectEnd": 53543.10000002384,
+        "requestStart": 53545.80000001192,
+        "responseStart": 53546.10000002384,
+        "firstInterimResponseStart": 53546.10000002384,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 53548.90000003576,
+        "transferSize": 0,
+        "encodedBodySize": 26822,
+        "decodedBodySize": 26822,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    },
+    {
+      "name": "resource",
+      "cat": "PerformanceObserver",
+      "ph": "X",
+      "ts": 53543199.99998808,
+      "dur": 7500,
+      "pid": 1,
+      "tid": 1,
+      "args": {
+        "name": "http://127.0.0.1:3112/_next/image?url=%2Fimages%2Fliving.jpg&w=640&q=75",
+        "entryType": "resource",
+        "startTime": 53543.19999998808,
+        "duration": 7.5,
+        "navigationId": 8704,
+        "initiatorType": "img",
+        "deliveryType": "cache",
+        "nextHopProtocol": "",
+        "renderBlockingStatus": "non-blocking",
+        "contentType": "image/webp",
+        "contentEncoding": "",
+        "workerStart": 0,
+        "workerRouterEvaluationStart": 0,
+        "workerCacheLookupStart": 0,
+        "workerMatchedSourceType": "",
+        "workerFinalSourceType": "",
+        "redirectStart": 0,
+        "redirectEnd": 0,
+        "fetchStart": 53543.19999998808,
+        "domainLookupStart": 53543.19999998808,
+        "domainLookupEnd": 53543.19999998808,
+        "connectStart": 53543.19999998808,
+        "secureConnectionStart": 0,
+        "connectEnd": 53543.19999998808,
+        "requestStart": 53545.90000003576,
+        "responseStart": 53546.10000002384,
+        "firstInterimResponseStart": 53546.10000002384,
+        "finalResponseHeadersStart": 0,
+        "responseEnd": 53550.69999998808,
+        "transferSize": 0,
+        "encodedBodySize": 35402,
+        "decodedBodySize": 35402,
+        "responseStatus": 200,
+        "serverTiming": []
+      }
+    }
+  ],
+  "metadata": {
+    "source": "Production browser rAF/PerformanceObserver; not DevTools compositor trace",
+    "conditions": {
+      "file": "performance-before-handoff.json",
+      "viewport": [
+        1279,
+        700
+      ],
+      "dpr": 1.0000000298023224,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "durationMs": 4993.199999988079,
+      "frames": 820,
+      "movingFrames": 2,
+      "medianMs": 6.099999999998545,
+      "p95Ms": 6.100000000005821,
+      "maxMs": 12.200000000004366,
+      "intervalsOver16_7ms": 0,
+      "estimatedMissedRafOpportunities": 3,
+      "longTasks": 0,
+      "longAnimationFrames": 0
+    }
+  }
+}

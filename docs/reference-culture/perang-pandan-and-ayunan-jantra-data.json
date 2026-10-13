@@ -1,0 +1,57 @@
+{
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/perang-pandan/65c0aff6-6e57-417d-a8e0-3bc75b43c753/raw/dsc04466-1jpg.jpeg",
+  "sections": [
+    {
+      "class": "horizontal-split-image-text-1 single-description",
+      "headings": [
+        "The Perang Pandan ritual battle is carried out to honor the god Indra, the deity of war, and is part of the Sasih Sembah ceremonies, an important series of religious celebrations in Tenganan Village."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/perang-pandan/09d767a6-d3ce-450a-ab27-744ef5d0cf10/raw/dsc04554-1jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-71fa568a=\"\"><div class=\"column\" data-v-71fa568a=\"\"><div class=\"full-height-image padded\" data-v-71fa568a=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div></div><div class=\"column\" data-v-71fa568a=\"\"><h2 class=\"title font-heading2-dh\" data-v-71fa568a=\"\">The Perang Pandan ritual battle is carried out to honor the god Indra, the deity of war, and is part of the Sasih Sembah ceremonies, an important series of religious celebrations in Tenganan Village.</h2><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>This ceremony lasts for two days, held every fifth month or Sasih Kalima on Tenganan’s village calendar (around June).</p></div></div><div class=\"column\" data-v-71fa568a=\"\"><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p><br></p></div></div></div>",
+      "paragraphs": [
+        "This ceremony lasts for two days, held every fifth month or Sasih Kalima on Tenganan’s village calendar (around June).",
+        ""
+      ]
+    },
+    {
+      "class": "horizontal-split-image-text-overlay",
+      "headings": [
+        "Following the Perang Pandan, the Ayunan Jantra (on a wooden circular swing) will grace the late afternoon."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/perang-pandan/2f2445eb-f367-4868-acda-c7fdfbd0a3bd/raw/504272976185114331340018245237409504936353905n-1jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-e4ed27ee=\"\"><div class=\"column\" data-v-e4ed27ee=\"\"><div class=\"full-height-image\" data-v-e4ed27ee=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div>[SVG]</div><div class=\"column\" data-v-e4ed27ee=\"\"><h2 class=\"title font-heading2-dh\" data-v-e4ed27ee=\"\">Following the Perang Pandan, the Ayunan Jantra (on a wooden circular swing) will grace the late afternoon. </h2><!----><div class=\"description font-body2-dh\" data-v-e4ed27ee=\"\"><p>This tradition describes the continuous life cycle, inspiring young people to embrace the journey ahead. The swing’s ups and downs are a powerful reminder to prepare for the realities that await.</p><p><br></p><p>Please contact our reservations desk if you are interested in witnessing these cultural events.</p><p><br></p></div></div></div>",
+      "paragraphs": [
+        "This tradition describes the continuous life cycle, inspiring young people to embrace the journey ahead. The swing’s ups and downs are a powerful reminder to prepare for the realities that await.",
+        "",
+        "Please contact our reservations desk if you are interested in witnessing these cultural events.",
+        ""
+      ]
+    },
+    {
+      "class": "next",
+      "headings": [],
+      "images": [
+        {
+          "alt": "Purnama & Tilem",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/purnama-and-tilem/57135204-29e3-42eb-a00e-7d8c2ecebea6/raw/dsc06678-2-1jpg.jpeg"
+        }
+      ],
+      "markup": "<p class=\"subtitle font-subtitle1\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><span class=\"line\" data-v-dd9fc100=\"\">Next page</span></span></p><div class=\"image-wrapper\" data-v-dd9fc100=\"\">[PHOTO]</div><h1 class=\"title font-heading2\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><div class=\"line\" data-v-dd9fc100=\"\">Purnama &amp; Tilem</div></span></h1><div class=\"scroll\" data-v-dd9fc100=\"\"><p class=\"keep-scroll font-button1\" data-v-dd9fc100=\"\">Keep Scroll</p><div class=\"progress\" data-v-dd9fc100=\"\"><div class=\"progress-fill\" data-v-dd9fc100=\"\"></div></div></div>",
+      "paragraphs": [
+        "Next page",
+        "Keep Scroll"
+      ]
+    }
+  ],
+  "title": "Perang Pandan & Ayunan Jantra"
+}

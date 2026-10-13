@@ -1,0 +1,285 @@
+{
+  "assets": [
+    {
+      "contentType": "",
+      "id": "cf7f0684aa2ac78a",
+      "kind": "stylesheet",
+      "name": "entry.a88C9g7q.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/cf7f0684aa2ac78a.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/entry.a88C9g7q.css"
+    },
+    {
+      "contentType": "",
+      "id": "486781b825e0d85d",
+      "kind": "stylesheet",
+      "name": "FullHeightImage.D9FUafVD.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/486781b825e0d85d.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/FullHeightImage.D9FUafVD.css"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7142585ea25965cf",
+      "kind": "image",
+      "name": "lobby-editwebp.webp",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/7142585ea25965cf.webp",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/our-story/0172d8b4-b73d-4b7a-bac1-7a848c8e04a6/raw/lobby-editwebp.webp"
+    },
+    {
+      "contentType": "text/css; charset=utf-8",
+      "id": "14afeabbfb797d55",
+      "kind": "stylesheet",
+      "name": "PostBungalow.DngOdoJk.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/14afeabbfb797d55.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/PostBungalow.DngOdoJk.css"
+    },
+    {
+      "contentType": "text/css; charset=utf-8",
+      "id": "c5833675b8cbd6e2",
+      "kind": "stylesheet",
+      "name": "PostCtaButton.DkYeGMQ9.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/c5833675b8cbd6e2.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/PostCtaButton.DkYeGMQ9.css"
+    },
+    {
+      "contentType": "text/css; charset=utf-8",
+      "id": "17e064c16cadc836",
+      "kind": "stylesheet",
+      "name": "PostOffer.D-D50tUE.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/17e064c16cadc836.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/PostOffer.D-D50tUE.css"
+    },
+    {
+      "contentType": "",
+      "id": "bb8e2cd6b8c55e95",
+      "kind": "stylesheet",
+      "name": "SectionsWrapper.DcBiIEJ1.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/bb8e2cd6b8c55e95.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/SectionsWrapper.DcBiIEJ1.css"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2afbeca185c52044",
+      "kind": "image",
+      "name": "tandjung-mail-iconpng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/2afbeca185c52044.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/0df0a534-fb78-4844-a580-4dc045d9b055/raw/tandjung-mail-iconpng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "064fcd2adb4655c8",
+      "kind": "image",
+      "name": "instagram-svgrepo-com-1-1png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/064fcd2adb4655c8.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/17567cf2-c442-437b-8fde-2eb260c941ef/raw/instagram-svgrepo-com-1-1png.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4a3d1362c6219581",
+      "kind": "image",
+      "name": "facebook-svgrepo-compng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/4a3d1362c6219581.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/4fc718bb-14e6-4bc1-833c-31ba7a6b3322/raw/facebook-svgrepo-compng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e1b532b4dc19d787",
+      "kind": "image",
+      "name": "youtube-svgrepo-compng.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/e1b532b4dc19d787.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/61d0af00-9357-4ed9-85ff-85a14821ba5b/raw/youtube-svgrepo-compng.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "104f0dbe1b0b58bd",
+      "kind": "image",
+      "name": "trip-advisor-svgrepo-com-1png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/104f0dbe1b0b58bd.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/social/9c0e734c-ab0c-4259-8e80-0516af9bc7c8/raw/trip-advisor-svgrepo-com-1png.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e0b55b7a8293115c",
+      "kind": "image",
+      "name": "dsc00663-editedjpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/e0b55b7a8293115c.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/galungan/45c7984f-8cec-4110-9e94-ac6592b50b14/raw/dsc00663-editedjpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d1861ff92e521db9",
+      "kind": "image",
+      "name": "mt2012003g-642-1jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/d1861ff92e521db9.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/galungan/3bab5271-0c76-426b-bf16-fb73ed2ffed8/raw/mt2012003g-642-1jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "dfe0b83899ba3158",
+      "kind": "image",
+      "name": "dsc04206-1jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/dfe0b83899ba3158.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/piodalan/c179243c-f54f-4f39-bd99-5872152d485c/raw/dsc04206-1jpg.jpeg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "fe29c50758e265ce",
+      "kind": "image",
+      "name": "dsc09995-2jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/fe29c50758e265ce.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/kuningan-and-mekotek/587a97c8-fd61-4ee7-8e6d-537a0c02f22d/raw/dsc09995-2jpg.jpeg"
+    },
+    {
+      "contentType": "",
+      "id": "3a06ccf579a4bef2",
+      "kind": "stylesheet",
+      "name": "ErrorComponentSection.DdEps4lg.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/3a06ccf579a4bef2.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/ErrorComponentSection.DdEps4lg.css"
+    },
+    {
+      "contentType": "image/vnd.microsoft.icon",
+      "id": "3fb88a917b1ea4aa",
+      "kind": "image",
+      "name": "favicon.ico",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/3fb88a917b1ea4aa.ico",
+      "url": "https://www.tandjungsarihotel.com/favicon.ico"
+    },
+    {
+      "contentType": "",
+      "id": "7aefebc3645ef06a",
+      "kind": "stylesheet",
+      "name": "SectionHero.BXaVwcyD.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/7aefebc3645ef06a.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/SectionHero.BXaVwcyD.css"
+    },
+    {
+      "contentType": "",
+      "id": "7825eef558daa20b",
+      "kind": "stylesheet",
+      "name": "SectionHorizontalSplitImageText1.DSjvndvi.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/7825eef558daa20b.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/SectionHorizontalSplitImageText1.DSjvndvi.css"
+    },
+    {
+      "contentType": "",
+      "id": "d1f5fd6d494650cf",
+      "kind": "stylesheet",
+      "name": "SectionHorizontalSplitImageTextOverlay.te9MmeVu.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/d1f5fd6d494650cf.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/SectionHorizontalSplitImageTextOverlay.te9MmeVu.css"
+    },
+    {
+      "contentType": "",
+      "id": "954fd5fadeaadd8f",
+      "kind": "stylesheet",
+      "name": "SectionNext.DGOsgkrM.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/954fd5fadeaadd8f.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/SectionNext.DGOsgkrM.css"
+    },
+    {
+      "contentType": "",
+      "id": "f0603a80e138255a",
+      "kind": "stylesheet",
+      "name": "PostCulture.Diw-0xrV.css",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/f0603a80e138255a.css",
+      "url": "https://www.tandjungsarihotel.com/_nuxt/PostCulture.Diw-0xrV.css"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a34971f403bba88e",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/a34971f403bba88e.svg",
+      "url": "inline-svg:a34971f403bba88e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e92257a1dabd09c8",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/e92257a1dabd09c8.svg",
+      "url": "inline-svg:e92257a1dabd09c8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e46063e99760f29a",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/e46063e99760f29a.svg",
+      "url": "inline-svg:e46063e99760f29a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "57bc08b5b917ccb1",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/57bc08b5b917ccb1.svg",
+      "url": "inline-svg:57bc08b5b917ccb1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b5a0602fd6b8572a",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/b5a0602fd6b8572a.svg",
+      "url": "inline-svg:b5a0602fd6b8572a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fac2d40502718b8d",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/fac2d40502718b8d.svg",
+      "url": "inline-svg:fac2d40502718b8d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c8b02a8d6bf5672e",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/c8b02a8d6bf5672e.svg",
+      "url": "inline-svg:c8b02a8d6bf5672e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a6be432069f87dfa",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/a6be432069f87dfa.svg",
+      "url": "inline-svg:a6be432069f87dfa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ec84028a4a091253",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/ec84028a4a091253.svg",
+      "url": "inline-svg:ec84028a4a091253"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a441a11e21dde2b7",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/a441a11e21dde2b7.svg",
+      "url": "inline-svg:a441a11e21dde2b7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "83c2a5332afc839f",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/83c2a5332afc839f.svg",
+      "url": "inline-svg:83c2a5332afc839f"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/9839978e-6d3b-44e9-8f7d-00cfbc0149c9/manifest.json",
+  "summary": {
+    "downloadedCount": 34,
+    "elapsedMs": 673.0896000000066,
+    "failedCount": 0,
+    "requestedCount": 34
+  }
+}

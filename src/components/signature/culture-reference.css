@@ -1,0 +1,43 @@
+/* Culture layouts measured from width1440 / height818 reference design units. */
+.sg-site:has(.sg-culture-index,.sg-culture-panel) { --sg-r:calc(100vw / 1440); --sg-ch:calc(100svh / 818); }
+.sg-culture-panel { flex:none; height:100svh; display:flex; font-family:"TS Helvetica",Helvetica,sans-serif; background:#f1ecde; }
+.sg-culture-panel h2,.sg-culture-panel p { margin:0; }
+.sg-culture-panel h2 { font-family:"TS Caslon",serif; font-size:calc(40 * var(--sg-ch)); line-height:1.15; font-weight:400; letter-spacing:0; }
+.sg-culture-panel-body { font-size:calc(15 * var(--sg-ch)); line-height:1.6; }
+.sg-culture-panel-body p + p { margin-top:1.6em; }
+.sg-culture-panel-body:focus-visible { outline:1px solid currentColor; outline-offset:8px; }
+.sg-culture-portraitEditorial { padding-right:calc(54.43 * var(--sg-r)); }
+.sg-culture-portraitEditorial .sg-culture-panel-photo { height:calc(734 * var(--sg-ch)); width:calc(594.77 * var(--sg-ch)); margin:calc(42 * var(--sg-ch)) calc(54 * var(--sg-ch)); flex:none; }
+.sg-culture-portraitEditorial .sg-culture-panel-copy { width:calc(344.01 * var(--sg-ch)); margin-top:calc(73.6 * var(--sg-ch)); margin-right:calc(82.83 * var(--sg-ch)); position:relative; flex:none; }
+.sg-culture-portraitEditorial .sg-culture-panel-body { position:absolute; bottom:calc(65.59 * var(--sg-ch)); width:calc(234.94 * var(--sg-ch)); max-height:48svh; overflow:auto; scrollbar-width:thin; }
+.sg-culture-redOverlay .sg-culture-panel-photo { height:100svh; width:calc(734 * var(--sg-ch)); position:relative; flex:none; }
+.sg-culture-redOverlay .sg-culture-panel-copy { width:calc(487 * var(--sg-ch)); padding:calc(42 * var(--sg-ch)) calc(56.05 * var(--sg-ch)) calc(60 * var(--sg-ch)); background:#a62a23; color:#f1ecde; display:flex; flex-direction:column; justify-content:flex-end; flex:none; }
+.sg-culture-redOverlay h2 { width:calc(374.86 * var(--sg-ch)); }
+.sg-culture-redOverlay .sg-culture-panel-body { width:calc(339.36 * var(--sg-ch)); margin-top:calc(19.56 * var(--sg-ch)); max-height:48svh; overflow:auto; scrollbar-width:thin; }
+.sg-culture-panel-photo > .std-photo { width:100%; height:100%; }
+.sg-culture-coral { position:absolute; top:calc(-25 * var(--sg-ch)); left:calc(651.33 * var(--sg-ch)); width:calc(172.83 * var(--sg-ch)); height:calc(176.75 * var(--sg-ch)); z-index:1; pointer-events:none; }
+.sg-culture-coral .std-photo { width:100%; height:100%; background:transparent; }
+.sg-culture-coral img { object-fit:contain; }
+.sg-culture-detail-hero .std-photo { filter:grayscale(1); }
+.sg-culture-detail-flow .sg-story-track > .sg-hero { flex:0 0 100vw; }
+.sg-reference-site .sg-culture-detail-flow .sg-hero h1,.sg-reference-site .sg-culture-detail-flow .sg-next-stage h2 { top:calc(50% + 214 * var(--sg-r)); font-size:calc(40 * var(--sg-r)); line-height:1.2; }
+.sg-reference-site .sg-culture-detail-flow .sg-next-stage > .sg-label { top:calc(50% - 214 * var(--sg-r) - 1em); }
+.sg-culture-legacy { padding:8vw; flex:none; width:70vw; }
+@media(max-width:900px) {
+ .sg-culture-detail-flow .sg-story-track { display:block; height:auto; overflow:visible; }
+ .sg-culture-panel { display:block; height:auto; width:100%; padding:0; }
+ .sg-culture-portraitEditorial { padding:40px 0; }
+ .sg-culture-portraitEditorial .sg-culture-panel-photo { width:82vw; height:101vw; margin:0 auto; }
+ .sg-culture-portraitEditorial .sg-culture-panel-copy,.sg-culture-redOverlay .sg-culture-panel-copy { width:100%; margin:0; padding:40px 9vw; }
+ .sg-culture-panel h2,.sg-culture-redOverlay h2 { width:auto; font-size:30px; line-height:1.2; }
+ .sg-culture-panel .sg-culture-panel-body { width:auto; position:static; font-size:14px; line-height:1.6; margin-top:32px; max-height:none; overflow:visible; }
+ .sg-culture-redOverlay .sg-culture-panel-photo { width:100%; height:130vw; }
+ .sg-culture-redOverlay .sg-culture-panel-copy { padding-top:64px; }
+ .sg-culture-coral { width:100px; height:103px; left:auto; right:4vw; top:auto; bottom:-45px; }
+ .sg-reference-site .sg-culture-detail-flow .sg-hero h1 { top:auto; bottom:18%; font-size:34px; }
+ .sg-culture-legacy { width:auto; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .sg-culture-detail-flow .sg-story-track { display:block; height:auto; overflow:visible; }
+ .sg-culture-panel { width:100%; }
+}

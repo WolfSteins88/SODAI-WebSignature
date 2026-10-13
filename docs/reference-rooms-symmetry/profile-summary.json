@@ -1,0 +1,16 @@
+{
+  "viewport": [
+    1279,
+    700
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+  "durationMs": 25390.100000023842,
+  "intervalCount": 4184,
+  "medianMs": 6.099999999998545,
+  "p95Ms": 6.19999999999709,
+  "maximumMs": 24.299999999999272,
+  "intervalsOver16_7ms": 1,
+  "longTasks": 0,
+  "longAnimationFrames": 0,
+  "limitations": "Observer/rAF capture includes idle time and screenshot automation. Not a DevTools GPU trace, verified physical 60Hz setup or dropped-frame count."
+}

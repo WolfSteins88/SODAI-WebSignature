@@ -1,0 +1,106 @@
+{
+  "viewport": [
+    1279,
+    700
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+  "duration": 2866.100000023842,
+  "decode": 6,
+  "readinessWait": 1177,
+  "activeIntervals": 463,
+  "median": 6.099999999998545,
+  "p95": 6.200000000000728,
+  "max": 24.399999999999636,
+  "above16_7": 2,
+  "longtasks": 0,
+  "loaf": 0,
+  "maxForcedStyleAndLayout": 0,
+  "commits": 1,
+  "violations": [],
+  "marks": [
+    {
+      "name": "hero-morph:intent",
+      "entryType": "mark",
+      "startTime": 15965.899999976158,
+      "duration": 0,
+      "navigationId": 7107
+    },
+    {
+      "name": "hero-morph:shrink",
+      "entryType": "mark",
+      "startTime": 15970.5,
+      "duration": 0,
+      "navigationId": 7107
+    },
+    {
+      "name": "hero-morph:commit",
+      "entryType": "mark",
+      "startTime": 16184.700000047684,
+      "duration": 0,
+      "navigationId": 7107
+    },
+    {
+      "name": "hero-morph:shrink-end",
+      "entryType": "mark",
+      "startTime": 16569.5,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:preloaded",
+      "entryType": "mark",
+      "startTime": 17569.700000047684,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:route-ready",
+      "entryType": "mark",
+      "startTime": 17740.5,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:decode-start",
+      "entryType": "mark",
+      "startTime": 17740.5,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:decoded-measured",
+      "entryType": "mark",
+      "startTime": 17746.5,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:blend",
+      "entryType": "mark",
+      "startTime": 17753.700000047684,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:expand",
+      "entryType": "mark",
+      "startTime": 17926.899999976158,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:aligned",
+      "entryType": "mark",
+      "startTime": 18830.100000023842,
+      "duration": 0,
+      "navigationId": 7114
+    },
+    {
+      "name": "hero-morph:cleanup",
+      "entryType": "mark",
+      "startTime": 18832,
+      "duration": 0,
+      "navigationId": 7114
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "duration": 18518.700000047684,
+  "frames": 864,
+  "intervals": {
+    "median": 6.099999999998545,
+    "p95": 6.200000000000728,
+    "max": 1006.1000000000004,
+    "over16_7": 17
+  },
+  "active": {
+    "count": 34,
+    "median": 18.200000000000728,
+    "p95": 1006.0999999999985,
+    "max": 1006.1000000000004,
+    "over16_7": 17
+  },
+  "longtasks": 0,
+  "longAnimationFrames": 19,
+  "hidden": 0,
+  "marks": [
+    {
+      "name": "hero-morph:intent",
+      "entryType": "mark",
+      "startTime": 9107.100000023842,
+      "duration": 0,
+      "navigationId": 8598
+    },
+    {
+      "name": "hero-morph:commit",
+      "entryType": "mark",
+      "startTime": 9110.700000047684,
+      "duration": 0,
+      "navigationId": 8598
+    },
+    {
+      "name": "hero-morph:shrink",
+      "entryType": "mark",
+      "startTime": 9136.300000071526,
+      "duration": 0,
+      "navigationId": 8598
+    },
+    {
+      "name": "hero-morph:route-ready",
+      "entryType": "mark",
+      "startTime": 9202.5,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:decode-start",
+      "entryType": "mark",
+      "startTime": 9202.600000023842,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:decoded-measured",
+      "entryType": "mark",
+      "startTime": 9212.600000023842,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:preloaded",
+      "entryType": "mark",
+      "startTime": 9219.900000095367,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:shrink-ready",
+      "entryType": "mark",
+      "startTime": 13709.900000095367,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:blend",
+      "entryType": "mark",
+      "startTime": 13715.700000047684,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:expand",
+      "entryType": "mark",
+      "startTime": 16770.200000047684,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:aligned",
+      "entryType": "mark",
+      "startTime": 22479.200000047684,
+      "duration": 0,
+      "navigationId": 8605
+    },
+    {
+      "name": "hero-morph:cleanup",
+      "entryType": "mark",
+      "startTime": 22480.900000095367,
+      "duration": 0,
+      "navigationId": 8605
+    }
+  ],
+  "loaf": [
+    {
+      "duration": 1005.1000000238419,
+      "blockingDuration": 0,
+      "renderStart": 5685.900000095367,
+      "styleAndLayoutStart": 5689.5,
+      "scripts": []
+    },
+    {
+      "duration": 1005.2000000476837,
+      "blockingDuration": 0,
+      "renderStart": 6692,
+      "styleAndLayoutStart": 6695.200000047684,
+      "scripts": []
+    },
+    {
+      "duration": 1006.3999999761581,
+      "blockingDuration": 0,
+      "renderStart": 7697.900000095367,
+      "styleAndLayoutStart": 7702.100000023842,
+      "scripts": []
+    },
+    {
+      "duration": 999.1999999284744,
+      "blockingDuration": 0,
+      "renderStart": 8698.100000023842,
+      "styleAndLayoutStart": 8701.900000095367,
+      "scripts": []
+    },
+    {
+      "duration": 438,
+      "blockingDuration": 0,
+      "renderStart": 9134.200000047684,
+      "styleAndLayoutStart": 9139.700000047684,
+      "scripts": [
+        {
+          "name": "script",
+          "entryType": "script",
+          "startTime": 9096.900000095367,
+          "duration": 15.699999928474426,
+          "navigationId": 8605,
+          "invoker": "#document.onclick",
+          "invokerType": "event-listener",
+          "windowAttribution": "self",
+          "executionStart": 9096.900000095367,
+          "forcedStyleAndLayoutDuration": 5.9,
+          "pauseDuration": 0,
+          "sourceURL": "http://127.0.0.1:3112/_next/static/chunks/4bd1b696-92152b0f5947070d.js",
+          "sourceFunctionName": "fR",
+          "sourceCharPosition": 191392
+        }
+      ]
+    },
+    {
+      "duration": 996,
+      "blockingDuration": 0,
+      "renderStart": 10224.900000095367,
+      "styleAndLayoutStart": 10228.400000095367,
+      "scripts": []
+    },
+    {
+      "duration": 1005.3999999761581,
+      "blockingDuration": 0,
+      "renderStart": 11231,
+      "styleAndLayoutStart": 11234.300000071526,
+      "scripts": []
+    },
+    {
+      "duration": 1005,
+      "blockingDuration": 0,
+      "renderStart": 12236.900000095367,
+      "styleAndLayoutStart": 12240.100000023842,
+      "scripts": []
+    },
+    {
+      "duration": 999.8000000715256,
+      "blockingDuration": 0,
+      "renderStart": 13237.200000047684,
+      "styleAndLayoutStart": 13240.200000047684,
+      "scripts": []
+    },
+    {
+      "duration": 472.89999997615814,
+      "blockingDuration": 0,
+      "renderStart": 13709.5,
+      "styleAndLayoutStart": 13713.700000047684,
+      "scripts": []
+    },
+    {
+      "duration": 1006.3999999761581,
+      "blockingDuration": 0,
+      "renderStart": 14757.800000071526,
+      "styleAndLayoutStart": 14761.300000071526,
+      "scripts": []
+    },
+    {
+      "duration": 1005.0999999046326,
+      "blockingDuration": 0,
+      "renderStart": 15763.900000095367,
+      "styleAndLayoutStart": 15767,
+      "scripts": []
+    },
+    {
+      "duration": 1005.8000000715256,
+      "blockingDuration": 0,
+      "renderStart": 16769.800000071526,
+      "styleAndLayoutStart": 16773.200000047684,
+      "scripts": []
+    },
+    {
+      "duration": 1005.2999999523163,
+      "blockingDuration": 0,
+      "renderStart": 17775.800000071526,
+      "styleAndLayoutStart": 17779.100000023842,
+      "scripts": []
+    },
+    {
+      "duration": 193.5,
+      "blockingDuration": 0,
+      "renderStart": 17969.600000023842,
+      "styleAndLayoutStart": 17973.200000047684,
+      "scripts": []
+    },
+    {
+      "duration": 1005.5999999046326,
+      "blockingDuration": 0,
+      "renderStart": 19006,
+      "styleAndLayoutStart": 19008.800000071526,
+      "scripts": []
+    },
+    {
+      "duration": 1005.5,
+      "blockingDuration": 0,
+      "renderStart": 20011.800000071526,
+      "styleAndLayoutStart": 20014.800000071526,
+      "scripts": []
+    },
+    {
+      "duration": 1005.6999999284744,
+      "blockingDuration": 0,
+      "renderStart": 21018.100000023842,
+      "styleAndLayoutStart": 21021.100000023842,
+      "scripts": []
+    },
+    {
+      "duration": 1005.2000000476837,
+      "blockingDuration": 0,
+      "renderStart": 22023.800000071526,
+      "styleAndLayoutStart": 22026.800000071526,
+      "scripts": []
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';const p='scripts/check-standard.ts';let s=await fs.readFile(p,'utf8');s=s.replace('      const story = fixtureContent.signatureStory!;',`      const diningHtml=await (await fetch(fixture.origin+'/dining')).text();
+      assert.ok(diningHtml.includes('sg-dining-categories'));
+      const menuHtml=await (await fetch(fixture.origin+'/restaurant-menu')).text();
+      for(const category of fixtureContent.dining.signature!.categories)for(const page of category.menuPages)assert.ok(menuHtml.includes('data-menu-page="'+page.id+'"'));
+      const edgeDining=structuredClone(fixtureContent);edgeDining.dining.signature!.offers=[];edgeDining.dining.signature!.categories.forEach(c=>c.menuPages=[]);
+      await fixture.publish(edgeDining);assert.equal((await fetch(fixture.origin+'/restaurant-menu')).status,404);
+      const emptyDining=await (await fetch(fixture.origin+'/dining')).text();assert.ok(!emptyDining.includes('sg-dining-offer-track'));assert.ok(!emptyDining.includes('View Menu'));
+      edgeDining.dining.signature!.offers=[fixtureContent.dining.signature!.offers[0]];await fixture.publish(edgeDining);assert.ok((await (await fetch(fixture.origin+'/dining')).text()).includes('data-dining-offer="afternoon-tea"'));
+      await fixture.publish(fixtureContent);
+      const story = fixtureContent.signatureStory!;`);await fs.writeFile(p,s);

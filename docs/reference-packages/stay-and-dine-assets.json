@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "150765138429244c",
+      "kind": "image",
+      "name": "stay-and-dine-1png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/5a297052-f60a-4f73-a9bc-38fee36fe24d/150765138429244c.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/stay-and-dine/9ecfea02-a50e-446e-8d35-ce7195803216/raw/stay-and-dine-1png.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "606829a36af98f81",
+      "kind": "image",
+      "name": "stay-and-dine-3png.png",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/5a297052-f60a-4f73-a9bc-38fee36fe24d/606829a36af98f81.png",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/stay-and-dine/6b846ea1-c815-45c5-83bc-d70cc02310e7/raw/stay-and-dine-3png.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "3d726de09a935728",
+      "kind": "image",
+      "name": "dsc07601-1-2jpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/5a297052-f60a-4f73-a9bc-38fee36fe24d/3d726de09a935728.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/offers-and-packages/stay-and-dine/85cd263b-baae-47c4-a6bf-2c75be9418c6/raw/dsc07601-1-2jpg.jpeg"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/5a297052-f60a-4f73-a9bc-38fee36fe24d",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Packages\\sandbox.{69ed8201-c0fe-4aff-82cc-9f4c16f99d7b}\\AC\\Temp/browser-use/assets/5a297052-f60a-4f73-a9bc-38fee36fe24d/manifest.json",
+  "summary": {
+    "downloadedCount": 3,
+    "elapsedMs": 313.79410000005737,
+    "failedCount": 0,
+    "requestedCount": 3
+  }
+}

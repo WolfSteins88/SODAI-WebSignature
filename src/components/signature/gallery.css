@@ -1,0 +1,419 @@
+.sgl-page {
+  --gu: calc(100vw / 1279.333333);
+  background: #f1ecde;
+  min-height: 100svh;
+  padding-top: calc(21.677 * var(--gu));
+  color: #544f45;
+}
+.sgl-filters-wrap {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: calc(17.7685 * var(--gu)) 0;
+  margin-bottom: calc(57.357 * var(--gu));
+  background: #f1ecde;
+}
+.sgl-filters {
+  display: flex;
+  justify-content: center;
+  gap: calc(31.9833 * var(--gu));
+  margin-left: calc(86.177 * var(--gu));
+  margin-right: calc(34.667 * var(--gu));
+}
+.sgl-filters button {
+  font:
+    400 calc(11.55 * var(--gu))/1.22 "TS Helvetica",
+    Arial,
+    sans-serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.3;
+  background: transparent;
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+}
+.sgl-filters button[aria-pressed="true"],
+.sgl-filters button:hover,
+.sgl-filters button:focus-visible {
+  opacity: 1;
+}
+.sgl-page button:focus-visible {
+  outline: 2px solid #a62a23;
+  outline-offset: 5px;
+}
+.sgl-masonry {
+  container-type: inline-size;
+  margin-left: calc(86.177 * var(--gu));
+  margin-right: calc(34.667 * var(--gu));
+  padding-bottom: calc(88.843 * var(--gu));
+  --gap: calc(31.9833 * var(--gu));
+}
+.sgl-track {
+  --cell: calc((100cqw - 4 * var(--gap)) / 5);
+  position: relative;
+  height: var(--height5);
+}
+.sgl-thumbnail {
+  position: absolute;
+  top: var(--y5);
+  left: calc(var(--x5) * (var(--cell) + var(--gap)));
+  width: var(--cell);
+  display: block;
+  border: 0;
+  padding: 0;
+  background: #e6dfcc;
+  cursor: pointer;
+}
+.sgl-thumbnail .std-photo {
+  height: 100%;
+  width: 100%;
+}
+.sgl-thumbnail img {
+  object-fit: contain !important;
+}
+.sgl-empty {
+  margin: 80px 8vw;
+  min-height: 60svh;
+  font:
+    16px/1.6 "TS Helvetica",
+    Arial,
+    sans-serif;
+}
+.sgl-viewer {
+  --gu: calc(100vw / 1279.333333);
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100svh;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #93836c;
+  color: #f1ecde;
+  overflow: hidden;
+}
+.sgl-viewer::backdrop {
+  background: transparent;
+}
+.sgl-viewer button {
+  font-family: "TS Helvetica", Arial, sans-serif;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+.sgl-viewer button:focus-visible,
+.sgl-viewer a:focus-visible {
+  outline: 2px solid #f1ecde;
+  outline-offset: 4px;
+}
+.sgv-close {
+  position: absolute;
+  top: 10svh;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  padding: calc(8.884 * var(--gu));
+  font-size: calc(11.55 * var(--gu));
+  line-height: 1;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.sgv-stage {
+  position: absolute;
+  inset: 0;
+  touch-action: pan-y;
+}
+.sgv-frame {
+  position: absolute;
+  width: calc(867.09 * var(--gu));
+  height: 75svh;
+  left: 50%;
+  top: 12.5svh;
+  margin: 0;
+  translate: -50% 0;
+}
+.sgv-frame.sgv-portrait {
+  width: calc(390 * var(--gu));
+}
+.sgv-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: calc(44.4213 * var(--gu)) 0;
+  object-fit: contain;
+}
+.sgv-frame figcaption {
+  position: absolute;
+  top: calc(100% - 44.4213 * var(--gu) + 36px);
+  left: 0;
+  width: 100%;
+  font:
+    12px/1.4 "TS Helvetica",
+    Arial,
+    sans-serif;
+  text-align: center;
+}
+.sgv-fallback {
+  position: absolute;
+  inset: calc(44.4213 * var(--gu)) 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid #f1ecde55;
+  padding: 24px;
+  font:
+    16px/1.5 "TS Helvetica",
+    Arial,
+    sans-serif;
+}
+.sgv-fallback p {
+  max-width: 40ch;
+}
+.sgv-prev,
+.sgv-next {
+  position: absolute;
+  top: 50%;
+  translate: 0 -50%;
+  min-width: 46px;
+  min-height: 46px;
+  font-size: 24px;
+  font-weight: 200;
+  z-index: 3;
+}
+.sgv-prev {
+  left: calc(136.47 * var(--gu));
+}
+.sgv-next {
+  right: calc(83.16 * var(--gu));
+}
+.sgv-prev:disabled,
+.sgv-next:disabled {
+  opacity: 0.2;
+  cursor: default;
+}
+.sgv-booking {
+  position: absolute;
+  right: calc(34.667 * var(--gu));
+  top: calc(36.86 * var(--gu));
+  display: flex;
+  gap: calc(13.77 * var(--gu));
+  z-index: 4;
+}
+.sgv-booking a {
+  background: #fbf6ec;
+  color: #a62a23;
+  padding: calc(14.44 * var(--gu)) calc(19 * var(--gu));
+  font:
+    calc(10.66 * var(--gu))/1 "TS Helvetica",
+    Arial,
+    sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.sgv-rail {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: calc(53.31 * var(--gu));
+  z-index: 4;
+  border-right: 1px solid #f1ecde22;
+}
+.sgv-emblem {
+  position: absolute;
+  top: calc(40 * var(--gu));
+  left: calc(10 * var(--gu));
+  width: calc(32 * var(--gu));
+  height: calc(32 * var(--gu));
+}
+.sgv-emblem .std-photo {
+  height: 100%;
+  width: 100%;
+}
+.sgv-rail button {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 44px;
+  translate: 0 -50%;
+  opacity: 0.5;
+}
+@media (max-width: 1100px) and (min-width: 901px) {
+  .sgl-track {
+    --cell: calc((100cqw - 3 * var(--gap)) / 4);
+    height: var(--height4);
+  }
+  .sgl-thumbnail {
+    top: var(--y4);
+    left: calc(var(--x4) * (var(--cell) + var(--gap)));
+  }
+}
+@media (max-width: 900px) {
+  .sgl-page {
+    --gu: 1px;
+    padding-top: 94px;
+    padding-bottom: calc(90px + env(safe-area-inset-bottom));
+  }
+  .sgl-filters-wrap {
+    top: 64px;
+    padding: 16px 0;
+    margin-bottom: 24px;
+  }
+  .sgl-filters {
+    margin: 0 20px;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .sgl-filters button {
+    font-size: 11px;
+    line-height: 1.5;
+    min-height: 30px;
+  }
+  .sgl-masonry {
+    margin: 0 20px;
+    --gap: 16px;
+    padding-bottom: 32px;
+  }
+  .sgl-track {
+    --cell: calc((100cqw - 2 * var(--gap)) / 3);
+    height: var(--height3);
+  }
+  .sgl-thumbnail {
+    top: var(--y3);
+    left: calc(var(--x3) * (var(--cell) + var(--gap)));
+  }
+  .sgl-viewer {
+    --gu: 1px;
+  }
+  .sgv-frame,
+  .sgv-frame.sgv-portrait {
+    width: 88vw;
+    top: 15svh;
+    height: 65svh;
+  }
+  .sgv-image {
+    padding: 20px 0;
+  }
+  .sgv-close {
+    top: 9svh;
+    font-size: 12px;
+    padding: 12px;
+  }
+  .sgv-rail {
+    display: none;
+  }
+  .sgv-prev {
+    left: 8px;
+  }
+  .sgv-next {
+    right: 8px;
+  }
+  .sgv-prev,
+  .sgv-next {
+    top: 85svh;
+    background: #93836c;
+  }
+  .sgv-booking {
+    inset: auto 0 0;
+    justify-content: center;
+    padding: 12px 8px calc(12px + env(safe-area-inset-bottom));
+    gap: 20px;
+    background: #93836c;
+  }
+  .sgv-booking a {
+    font-size: 11px;
+    padding: 12px;
+  }
+  .sgv-frame figcaption {
+    top: calc(100% - 8px);
+    font-size: 12px;
+  }
+}
+@media (max-width: 600px) {
+  .sgl-track {
+    --cell: calc((100cqw - var(--gap)) / 2);
+    height: var(--height2);
+  }
+  .sgl-thumbnail {
+    top: var(--y2);
+    left: calc(var(--x2) * (var(--cell) + var(--gap)));
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sgl-viewer,
+  .sgv-frame {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+.sgv-emblem .std-photo {
+  background: transparent;
+}
+
+.sgv-rail button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+}
+.sgv-rail button span {
+  display: block;
+  height: 26px;
+  width: 1px;
+  background: currentColor;
+}
+.sgv-prev svg,
+.sgv-next svg {
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin: auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1;
+}
+
+.sgv-frame figcaption {
+  max-height: calc(12.5svh + 12px);
+  overflow: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+}
+.sgv-frame figcaption:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 3px;
+}
+@media (max-width: 900px) {
+  .sgv-frame figcaption {
+    max-height: 48px;
+    padding: 0 32px;
+  }
+}
+
+@media (max-width: 900px) {
+  .sg-reference-site.sg-gallery-site {
+    --sg-m: 1px;
+  }
+  .sgl-filters-wrap {
+    top: 79px;
+  }
+}
+
+.sgl-sentinel {
+  display: block;
+  height: 0;
+  width: 1px;
+}
+.sgl-filters-wrap.sgl-pinned {
+  background: #93836c;
+  color: #f1ecde;
+}
+.sgl-pinned button:focus-visible {
+  outline-color: #f1ecde;
+}

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.next-signature/
+.netlify/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+docs/reference/desktop/
+docs/reference/mobile/
+.local-tools/
+
+local-data/

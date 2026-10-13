@@ -1,0 +1,57 @@
+{
+  "hero": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/purnama-and-tilem/57135204-29e3-42eb-a00e-7d8c2ecebea6/raw/dsc06678-2-1jpg.jpeg",
+  "sections": [
+    {
+      "class": "horizontal-split-image-text-1 single-description",
+      "headings": [
+        "Purnama is generally marked by a high tide."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/purnama-and-tilem/fdcc7a45-c1a8-40f1-a553-e53a081054f2/raw/banten-for-purnama-1jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-71fa568a=\"\"><div class=\"column\" data-v-71fa568a=\"\"><div class=\"full-height-image padded\" data-v-71fa568a=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div></div><div class=\"column\" data-v-71fa568a=\"\"><h2 class=\"title font-heading2-dh\" data-v-71fa568a=\"\">Purnama is generally marked by a high tide.</h2><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>To protect the self from negative effects, people are advised to take time for introspection and self-purification.</p></div></div><div class=\"column\" data-v-71fa568a=\"\"><div class=\"description font-body2-dh\" data-v-71fa568a=\"\"><p>Both stages of the moon are believed to have ambivalent mystical energy. To protect the self from negative effects, people are advised to take time for introspection and self-purification.</p><p><br></p></div></div></div>",
+      "paragraphs": [
+        "To protect the self from negative effects, people are advised to take time for introspection and self-purification.",
+        "Both stages of the moon are believed to have ambivalent mystical energy. To protect the self from negative effects, people are advised to take time for introspection and self-purification.",
+        ""
+      ]
+    },
+    {
+      "class": "horizontal-split-image-text-overlay",
+      "headings": [
+        "Tilem is the darkest night of the month."
+      ],
+      "images": [
+        {
+          "alt": "",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/purnama-and-tilem/64804f9f-90ac-4b45-8b58-bc07a04541ee/raw/section-3jpg.jpeg"
+        }
+      ],
+      "markup": "<div class=\"container\" data-v-e4ed27ee=\"\"><div class=\"column\" data-v-e4ed27ee=\"\"><div class=\"full-height-image\" data-v-e4ed27ee=\"\" data-v-a5c01a7d=\"\"><div class=\"container\" data-v-a5c01a7d=\"\">[PHOTO]</div></div>[SVG]</div><div class=\"column\" data-v-e4ed27ee=\"\"><h2 class=\"title font-heading2-dh\" data-v-e4ed27ee=\"\">Tilem is the darkest night of the month.</h2><!----><div class=\"description font-body2-dh\" data-v-e4ed27ee=\"\"><p>On Purnama and on Tilem, special offerings are placed in significant places around houses and temples and in local shrines everywhere.</p><p>Both stages of the moon are believed to have\nambivalent mystical energy.&nbsp;</p><p><br></p></div></div></div>",
+      "paragraphs": [
+        "On Purnama and on Tilem, special offerings are placed in significant places around houses and temples and in local shrines everywhere.",
+        "Both stages of the moon are believed to have\nambivalent mystical energy.",
+        ""
+      ]
+    },
+    {
+      "class": "next",
+      "headings": [],
+      "images": [
+        {
+          "alt": "Offerings",
+          "src": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/offerings/d544aad4-73d3-4574-8c09-dcc173dd60f4/raw/dsc02775-1jpg.jpeg"
+        }
+      ],
+      "markup": "<p class=\"subtitle font-subtitle1\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><span class=\"line\" data-v-dd9fc100=\"\">Next page</span></span></p><div class=\"image-wrapper\" data-v-dd9fc100=\"\">[PHOTO]</div><h1 class=\"title font-heading2\" data-v-dd9fc100=\"\"><span class=\"masking-text\" data-v-dd9fc100=\"\"><div class=\"line\" data-v-dd9fc100=\"\">Offerings</div></span></h1><div class=\"scroll\" data-v-dd9fc100=\"\"><p class=\"keep-scroll font-button1\" data-v-dd9fc100=\"\">Keep Scroll</p><div class=\"progress\" data-v-dd9fc100=\"\"><div class=\"progress-fill\" data-v-dd9fc100=\"\"></div></div></div>",
+      "paragraphs": [
+        "Next page",
+        "Keep Scroll"
+      ]
+    }
+  ],
+  "title": "Purnama & Tilem"
+}

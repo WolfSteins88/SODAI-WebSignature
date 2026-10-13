@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "id": "8cfc4e1e57f2bc85",
+      "kind": "image",
+      "name": "purnamajpg.jpeg",
+      "path": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/7ea7c36a-c17b-47a2-9f93-9b970c1cf053/8cfc4e1e57f2bc85.jpeg",
+      "url": "https://vold-independent.s3.ap-southeast-1.amazonaws.com/culture/07671ce3-fe6a-43bd-9915-fd982f5a1b02/raw/purnamajpg.jpeg"
+    }
+  ],
+  "directoryPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/7ea7c36a-c17b-47a2-9f93-9b970c1cf053",
+  "failures": [],
+  "manifestPath": "C:\\Users\\Dio\\AppData\\Local\\Temp/browser-use/assets/7ea7c36a-c17b-47a2-9f93-9b970c1cf053/manifest.json",
+  "summary": {
+    "downloadedCount": 1,
+    "elapsedMs": 57.442400000058115,
+    "failedCount": 0,
+    "requestedCount": 1
+  }
+}
