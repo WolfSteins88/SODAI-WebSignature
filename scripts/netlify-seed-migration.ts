@@ -1,18 +1,30 @@
 // Writes a Netlify Database migration that seeds the fictional content for
 // one hosted scope. Usage (match the Netlify environment exactly):
-//   VILLA_ID=... CONTENT_ENV=production CONTEXT=production npm run db:seed:netlify
+//   VILLA_ID=... CONTENT_ENV=production CONTEXT=production npm run db:seed:netlify [timestamp]
+// With "reference" after the timestamp it instead replaces a still-unedited
+// seed with the Signature reference content the local demo shows.
 import { writeFileSync } from "node:fs";
 import { contentSchema } from "../src/lib/schemas/content";
 import { demoContent } from "../src/lib/content/demo";
+import { referenceDemoContent } from "../src/lib/content/signature-reference-demo";
 import { deploymentScope } from "../src/lib/security/settings";
 const scope = deploymentScope();
 if (scope.context !== "production") throw new Error("Set CONTEXT=production");
-const content = JSON.stringify(contentSchema.parse(demoContent));
+const reference = process.argv[3] === "reference";
+const content = JSON.stringify(contentSchema.parse(reference ? referenceDemoContent : demoContent));
 const quote = "$seed$";
 if (content.includes(quote)) throw new Error("Content contains the SQL quote tag");
 const literal = (value: string) => `'${value.replaceAll("'", "''")}'`;
 const json = `${quote}${content}${quote}::jsonb`;
-const sql = `-- Seeds VILLA_ID=${scope.villa} CONTENT_ENV=${scope.environment} CONTEXT=production.
+const replaceSql = `-- Replaces the seed for VILLA_ID=${scope.villa} CONTENT_ENV=${scope.environment} CONTEXT=production
+-- with the Signature reference content. Does nothing once the content was edited or published.
+UPDATE "revisions" SET "content" = ${json}
+WHERE "site_id" = ${literal(scope.key)} AND "revision" = 1 AND "action" = 'seed'
+  AND EXISTS (SELECT 1 FROM "sites" WHERE "id" = ${literal(scope.key)} AND "revision" = 1 AND "published_revision" = 1);
+UPDATE "sites" SET "draft" = ${json}, "published" = ${json}, "updated_at" = now()
+WHERE "id" = ${literal(scope.key)} AND "revision" = 1 AND "published_revision" = 1;
+`;
+const seedSql = `-- Seeds VILLA_ID=${scope.villa} CONTENT_ENV=${scope.environment} CONTEXT=production.
 -- Inserts nothing when this scope already has content.
 WITH site AS (
   INSERT INTO "sites" ("id", "villa_id", "environment", "draft", "published")
@@ -26,6 +38,6 @@ WITH site AS (
 INSERT INTO "audit" ("site_id", "actor", "action")
 SELECT "id", 'operator', 'seed' FROM site;
 `;
-const file = `netlify/database/migrations/${process.argv[2] ?? "20261013000100"}_seed_${scope.villa.replaceAll("-", "_")}.sql`;
-writeFileSync(file, sql);
+const file = `netlify/database/migrations/${process.argv[2] ?? "20261013000100"}_${reference ? "reference" : "seed"}_${scope.villa.replaceAll("-", "_")}.sql`;
+writeFileSync(file, reference ? replaceSql : seedSql);
 console.log(`Wrote ${file}`);
