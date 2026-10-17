@@ -2,6 +2,7 @@ import "server-only";
 import { getStore } from "@netlify/blobs";
 import {localDemoConfig} from "../security/local-demo";
 import {filesystemMediaStore} from "./local";
+import {vercelBlobMediaStore} from "./vercel";
 import { scope } from "../config";
 import { requireAccess } from "../security/access";
 import { HttpError } from "../security/errors";
@@ -14,6 +15,7 @@ export function mediaNamespace() {
 export function mediaStore() {
   const local=localDemoConfig();
   if(local)return filesystemMediaStore(local.root,scope.namespace);
+  if(process.env.VERCEL)return vercelBlobMediaStore(scope.namespace);
   return getStore({ name: scope.storeName, consistency: "strong" });
 }
 const imageKey = (key: string) => {

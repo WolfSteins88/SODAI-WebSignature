@@ -73,6 +73,19 @@ Server-only Blobs helpers authorize every read/write/delete, accept no caller na
 
 The CLI currently reports **Not logged in**. No authenticated linked project, Database connection or Blobs runtime context is available, so live integrations remain unverified.
 
+## Vercel + Neon deployment
+
+The same source also deploys to Vercel with a Neon database; the Netlify setup above is unchanged. On Vercel, `DATABASE_URL` (from the Neon integration) replaces Netlify Database and a private **Vercel Blob** store replaces Netlify Blobs. Vercel runs the `vercel-build` script, which applies `drizzle/` migrations over `DATABASE_URL_UNPOOLED` (falling back to `DATABASE_URL`), seeds the content for the current scope without overwriting existing drafts or publications (the Signature reference content when `TEMPLATE_VARIANT=signature`), then runs `next build`.
+
+1. Import the repository as a new Vercel project (framework Next.js, defaults otherwise). Keep "Automatically expose System Environment Variables" on.
+2. Storage → add **Neon** (Marketplace) and connect it to the project. It sets `DATABASE_URL` and `DATABASE_URL_UNPOOLED`. Keep its preview-branch option on so previews never migrate or write the production database.
+3. Storage → create a **Blob** store with **private** access and connect it; it sets `BLOB_READ_WRITE_TOKEN`.
+4. Environment Variables (Production): `VILLA_ID=sodai-signature`, `TEMPLATE_VARIANT=signature`, `CONTENT_MODE=live`, `CONTENT_ENV=production`, `AUTH_SECRET`, `AUTH_SESSION_VERSION`, `OWNER_IDENTIFIER`, `OWNER_PASSWORD_HASH`, `SUPER_ADMIN_IDENTIFIER`, `SUPER_ADMIN_PASSWORD_HASH`, and either `ADMIN_TOTP=off` or both `*_TOTP_SECRET`. Enter raw bcrypt hashes (no `\$` escaping). For Preview, set `CONTENT_ENV=preview` plus the same template/account values.
+5. `AUTH_URL` is optional: without it the site uses the project's production domain (`VERCEL_PROJECT_PRODUCTION_URL`) in production and the deployment's own URL in previews. Set it to the exact origin once a custom domain is attached. Admin writes check the request origin against it, so in previews use the deployment URL, not the branch alias.
+6. Deploy. Production maps to `CONTEXT=production`; each preview maps to `CONTEXT=deploy-preview` with `VERCEL_DEPLOYMENT_ID`, so it gets its own scope and media prefix.
+
+Login limits trust Vercel's `x-real-ip`. Image uploads stay under the 4 MB limit, inside Vercel's 4.5 MB function body cap.
+
 ## Compatibility and verification
 
 All direct versions are exact; the lockfile pins transitive dependencies.
