@@ -8,7 +8,9 @@ export function loginClient(request: Request) {
   const ip =
     process.env.NETLIFY === "true"
       ? request.headers.get("x-nf-client-connection-ip")
-      : null;
+      : process.env.VERCEL
+        ? request.headers.get("x-real-ip")
+        : null;
   return ip && isIP(ip) ? ip : "shared";
 }
 export async function consumeLoginAttempt(

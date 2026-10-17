@@ -14,13 +14,22 @@ function setting(name: string, value: string | undefined) {
     throw new Error(`${name} must be set to letters, digits, "-" or "_" (got ${value === undefined ? "nothing" : JSON.stringify(value)}).`);
   return parsed.data;
 }
+// Vercel names its contexts differently; map them onto Netlify's so a
+// production deploy shares one scope and each preview gets its own.
+function vercelContext(env: NodeJS.ProcessEnv) {
+  if (!env.VERCEL || !env.VERCEL_ENV) return {};
+  return env.VERCEL_ENV === "production"
+    ? { CONTEXT: "production" }
+    : { CONTEXT: "deploy-preview", DEPLOY_ID: env.VERCEL_DEPLOYMENT_ID };
+}
 // Netlify sets CONTEXT and DEPLOY_ID for the build only; next.config.ts inlines
 // them so hosted functions resolve the same scope the operator seeded.
 function hostedEnv(env: NodeJS.ProcessEnv = process.env): NodeJS.ProcessEnv {
+  const vercel = vercelContext(env);
   return {
     ...env,
-    CONTEXT: process.env.SODAI_BUILD_CONTEXT || env.CONTEXT,
-    DEPLOY_ID: process.env.SODAI_BUILD_DEPLOY_ID || env.DEPLOY_ID,
+    CONTEXT: process.env.SODAI_BUILD_CONTEXT || vercel.CONTEXT || env.CONTEXT,
+    DEPLOY_ID: process.env.SODAI_BUILD_DEPLOY_ID || vercel.DEPLOY_ID || env.DEPLOY_ID,
   };
 }
 export function deploymentScope(env: NodeJS.ProcessEnv = hostedEnv()) {
